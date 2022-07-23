@@ -47,6 +47,22 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Technology
 
+### HTML
+
+### CSS
+
+### Visual Studio Code
+
+### GitHub
+
+### Adobe Photohop
+
+### Adobe Dreamweaver
+
+### Google Fonts
+
+### balsamiq
+
 ## Testing
 
 ## Accessibility
