@@ -17,6 +17,11 @@ html {
     background: linear-gradient(70deg, #225127 0%, #e0a026 50%, #fcc700 100%);
 }
 
+/* Body Padding */
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
 
 /* Fixed Header and Footer CSS Styling */
 .fixed-header,
