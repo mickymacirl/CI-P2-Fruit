@@ -27,43 +27,45 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ![Footer](footer.jpg)
 
-## Design
+# Design
 
-### Colors
+## Colors
 
-### Fonts
+## Fonts
 
-### Wireframes
+## Wireframes
 
-#### Landing Page
+### Landing Page
 
-#### Game Page
+### Game Page
 
-#### Feedback Page
+### Feedback Page
 
-#### Confirm Page
+### Confirm Page
 
-#### 404 Page
+### 404 Page
 
-## Technology
+# Technology
 
-### HTML
+## HTML
 
-### CSS
+## CSS
 
-### Visual Studio Code
+## Javascript
 
-### GitHub
+## Visual Studio Code
 
-### Adobe Photohop
+## GitHub
 
-### Adobe Dreamweaver
+## Adobe Photohop
 
-### Google Fonts
+## Adobe Dreamweaver
 
-### balsamiq
+## Google Fonts
 
-## Testing
+## balsamiq
+
+# Testing
 
 ## Accessibility
 
@@ -77,19 +79,22 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Validator Testing
 
-## Deployment
+# Deployment
 
-### Template
+## Template
 
-### Version Control
+## Version Control
 
-### Deployment to GitHub Pages
+## Deployment to GitHub Pages
 
-### Deploying New Changes
+## Deploying New Changes
 
-### Cone the 'CI-P2 Fruit Game' GitHub Code Respository locally
+## Cone the 'CI-P2 Fruit Game' GitHub Code Respository locally
 
-## Credits
+# Credits
 
-### Mentor Support
+## Mentor Support
 
+## WevDev Tips Memory Game
+
+##
