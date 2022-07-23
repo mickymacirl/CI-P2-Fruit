@@ -5,7 +5,7 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Header
 
-* The website a Header with the Match 2 Logo aligned left and it is responsive on all device sizes.
+* The website has a fixed header with the Match 2 Logo aligned left and it is responsive on all device sizes.
 * This will be displayed throughout the website.
 
 ![Header](/header.jpg)
@@ -21,7 +21,7 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Footer
 
-* The footer describes what programs the site was designed in, with a link to each that opens in a new page.
+* The website has a fixed footer which describes what programs the site was designed in, with a link to each that opens in a new page.
 * Users will be able to find additonal information about the programs used.
 
 ![Footer](footer.jpg)
