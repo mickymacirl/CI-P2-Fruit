@@ -50,3 +50,19 @@ body {
     margin: 0 auto;
 }
 
+/* Style nav text */
+nav {
+    color: #225127;
+    color:#fff;
+    text-decoration: none;
+    padding: 7px 25px;
+    display: inline-block;
+}
+
+/* Style nav a text */
+nav a {
+    color:#fff;
+    text-decoration: none;
+    padding: 7px 25px;
+    display: inline-block;
+}
