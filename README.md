@@ -112,3 +112,7 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 ## Javascript Basics
 
 * Javascript Basics from *[JsChallenger.com](https://www.jschallenger.com/javascript-fundamentals/javascript-basics)*.
+
+## Mozilla.org Reference
+
+* Reference from *[Mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)*.
