@@ -32,3 +32,21 @@ body {
     background: linear-gradient(12deg, #225127 0%, #e0a026 50%, #fcc700 100%);
     padding: 10px;
 }
+
+/* Fixed header to Top */
+.fixed-header {
+    top: 0;
+}
+
+/* Fixed footer to Bottom */
+.fixed-footer {
+    bottom: 0;
+}
+
+/* Style h/f container */
+.container {
+    width: 100%;
+    align-items: center;
+    margin: 0 auto;
+}
+
