@@ -74,3 +74,25 @@ nav a {
     display: inline-block;
 }
 
+/* Style and position main page and game board */
+.game, 
+main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
+
+/* Style controls and force to bottom to hug game board */
+.controls {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 0px;
+}
+
+/* Style game stats and font size */
+.stats {
+    color: #fff;
+    font-size: 14pt;
+}
+
