@@ -49,17 +49,31 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## HTML
 
+* The struture of this website is using *[HTML](https://en.wikipedia.org/wiki/HTML)*.
+
 ## CSS
+
+* The website was styled by connecting a custom *[CSS](https://en.wikipedia.org/wiki/CSS)* to an external file.
 
 ## Javascript
 
+* This websites game board uses *[Javascript](https://en.wikipedia.org/wiki/JavaScript)* to an external file.
+
 ## Visual Studio Code
+
+* The website was developed using *[Visual Studio](https://visualstudio.microsoft.com/)* Code IDE.
 
 ## GitHub
 
+* Source code is hosted on *[GitHub](https://github.com/)* and deployed using *[GitPages](https://pages.github.com/)*.
+
 ## Adobe Photohop
 
+* Used *[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)* for over all design and logo images.
+
 ## Adobe Dreamweaver
+
+* The website tested and designed using *[Adobe Dreamweaver](https://www.adobe.com/products/dreamweaver.html)*.
 
 ## Google Fonts
 
