@@ -38,11 +38,13 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 ### Landing Page
 
 ![Index Page 320](/assets/readme/IPWF320.jpg)
+
 ![Index Page 700](/assets/readme/IPWF700.jpg)
 
 ### Game Page
 
 ![Game Page 320](/assets/readme/GPWF320.jpg)
+
 ![Game Page 700](/assets/readme/GPWF700.jpg)
 
 ### Feedback Page
