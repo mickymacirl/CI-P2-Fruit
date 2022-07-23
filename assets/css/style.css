@@ -23,6 +23,14 @@ body {
     padding-bottom: 40px;
 }
 
+/* Style Main */
+
+main {
+    margin: 0 auto;
+    width: 80%;
+    border: solid 1px;
+}
+
 /* Fixed Header and Footer CSS Styling */
 .fixed-header,
 .fixed-footer {
