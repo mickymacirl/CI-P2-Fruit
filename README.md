@@ -69,10 +69,27 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Lighthouse Testing
 
+### Desktop Testing
+
+### Mobile Testing
+
 ## Functional Testing
 
 ## Validator Testing
 
 ## Deployment
 
+### Template
+
+### Version Control
+
+### Deployment to GitHub Pages
+
+### Deploying New Changes
+
+### Cone the 'CI-P2 Fruit Game' GitHub Code Respository locally
+
 ## Credits
+
+### Mentor Support
+
