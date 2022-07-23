@@ -63,6 +63,8 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Google Fonts
 
+* This website uses *[Google Fonts](https://fonts.google.com/)*.
+
 ## balsamiq
 
 * Created wireframes for this website using *[balsamiq](https://balsamiq.com/wireframes/desktop/#/)*.
