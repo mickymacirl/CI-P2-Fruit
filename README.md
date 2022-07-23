@@ -2,7 +2,7 @@
 
 Match 2 Fruit is a memory game where you match two fruits. You flip the first card and try to find its match by choosing a second card. Once you match two fruits, continue to flip each card and match fruit types until the board is complete. The score has two elements, time and moves.
 
-# Features of Website
+## Features of Website
 
 ## Header
 
@@ -27,7 +27,7 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ![Footer](footer.jpg)
 
-# Design
+## Design Choices
 
 ## Colors
 
@@ -45,7 +45,7 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ### 404 Page
 
-# Technology
+## Technology
 
 ## HTML
 
@@ -83,7 +83,7 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 * Created wireframes for this website using *[balsamiq](https://balsamiq.com/wireframes/desktop/#/)*.
 
-# Testing
+## Testing
 
 ## Accessibility
 
@@ -97,7 +97,7 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Validator Testing
 
-# Deployment
+## Deployment
 
 ## Template
 
@@ -109,7 +109,7 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Cone the 'CI-P2 Fruit Game' GitHub Code Respository locally
 
-# Credits
+## Credits
 
 ## Mentor Support
 
