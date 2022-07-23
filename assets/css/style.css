@@ -1,4 +1,24 @@
 /* Style Sheet */
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+/* Defaults */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Muli', sans-serif;
+}
+
+/* HTML Styling */
+html {
+    width: 100%;
+    height: 100%;
+    font-family: 'Multi', sans-serif;
+    background: linear-gradient(70deg, #225127 0%, #e0a026 50%, #fcc700 100%);
+}
+
+
+/* Fixed Header and Footer CSS Styling */
 .fixed-header,
 .fixed-footer {
     text-decoration: solid;
@@ -7,4 +27,3 @@
     background: linear-gradient(12deg, #225127 0%, #e0a026 50%, #fcc700 100%);
     padding: 10px;
 }
-
