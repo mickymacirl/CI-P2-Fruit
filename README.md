@@ -95,6 +95,20 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Mentor Support
 
-## WevDev Tips Memory Game
+* Mentor support from *[Daisy McGirr](https://github.com/Daisy-McG)*.
+
+## Sticky Header and Footer
+
+* Sticky Header and Footer from *[Tutorial Republic](https://www.tutorialrepublic.com/faq/how-to-create-fixed-header-or-footer-using-css.php)*.
+
+## WebTips.Dev Memory Game
+
+* WebTips.Dev Memory Game from *[WebTips.Dev](https://www.webtips.dev/memory-game-in-javascript)*.
 
 ## Fruit Emojis
+
+* Fruit Eomijis from *[AltCodes.net](https://www.alt-codes.net/food-emoji)*.
+
+## Javascript Basics
+
+* Javascript Basics from *[JsChallenger.com](https://www.jschallenger.com/javascript-fundamentals/javascript-basics)*.
