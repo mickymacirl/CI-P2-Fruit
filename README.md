@@ -70,6 +70,8 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Fonts
 
+* The below fonts look well together on the page, and suit the look and feel of the website.
+
 * Choose the font *[Muli from Adobe Fonts](https://fonts.adobe.com/fonts/muli)* for the main text of the website and buttons.
 
 ![Muli Font](/assets/readme/mulirm.jpg)
