@@ -104,7 +104,7 @@ Code: &#127826
 | Coconut     | U+1F965     | &#129381       |Image           |
 | Tomato      | U+1F345     | &#127813       |Image           |
 | Mango       | U+1F96D     | &#129389       |Image           |
-| Cherries    | U+1F352     | &#127826       |Image           |
+| Cherries    | U+1F352     | &#127826       |![Fruit Emoji 127826](127826.jpg)|
 
 ## Colors
 
