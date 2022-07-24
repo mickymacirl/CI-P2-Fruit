@@ -31,6 +31,10 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 * The Main Game Board (game.html) is a 4x4 set of cards which can be turned with a mouse click, clicking a second card to try find the fruit match. If unsuccessful, both unmatched turned cards revert back to being unturned.
 
+![Successful Match Two Fruit](/assets/readme/match2rm.jpg)
+
+![Unsuccessful Match](/assets/readme/unmatch2rm.jpg)
+
 * The board is built using the *[Grid Template Columns](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns)* CSS property.
 
 ## Design Choices
