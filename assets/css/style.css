@@ -19,7 +19,7 @@ html {
 
 /* Body Padding */
 body {
-    font-size: calc(0.75em + 1vmin);
+/*    font-size: calc(0.75em + 1vmin); */
     padding-top: 60px;
     padding-bottom: 40px;
 }
