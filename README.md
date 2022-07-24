@@ -41,6 +41,8 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 * The Main Game Board has a Play Again button which links back to Index.html.
 
+![Play Again Readme](/assets/readme/playagainrm.jpg)
+
 ## Design Choices
 
 ## Fruit Emojis
