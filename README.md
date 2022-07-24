@@ -126,9 +126,13 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 ## Version Control
 
 Both Visual Studio code editor and GitPod were used to create this site and then pushed to the GitHub remote repository named ‘CI-P2-Fruit’.
+
 The following commands were used to push code to the remote repository:
-*git add .* was used to stage all files for commit changes
-*git commit -m “commit message”* was used to add the changes to the local repository for upload during a push
+
+*git add .* was used to stage all files for commit changes.
+
+*git commit -m “commit message”* was used to add the changes to the local repository for upload during a push.
+
 *git push* was used to push all local changes to the remote repository on GitHub.
 
 ## Deployment to GitHub Pages
