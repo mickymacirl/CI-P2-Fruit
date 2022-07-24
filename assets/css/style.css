@@ -149,8 +149,8 @@ button {
 /* Styling card position and w and h */
 .card {
     position: relative;
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
     cursor: pointer;
 }
 
@@ -172,7 +172,7 @@ button {
     font-size: 18pt;
     user-select: none;
     text-align: center;
-    line-height: 100px;
+    line-height: 70px;
     background: #7b8f3d;
 }
 .card.flipped .card-front {
