@@ -37,18 +37,47 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Fruit Emojis
 
-* The following Emomji's were used to randomly fill main game board.
+* The following Emoji's were used to randomly fill main game board:
 
-&#127815
-&#127820
-&#127827
-&#127823
-&#127821
-&#127818
-&#129381
-&#127813
-&#129389
-&#127826
+Code: &#127815
+
+![Fruit Emoji 127815](127815.jpg)
+
+Code: &#127820
+
+![Fruit Emoji 127820](127820.jpg)
+
+Code: &#127827
+
+![Fruit Emoji 127827](127827.jpg)
+
+Code: &#127823
+
+![Fruit Emoji 127823](127823.jpg)
+
+Code: &#127821
+
+![Fruit Emoji 127821](127821.jpg)
+
+Code: &#127818
+
+![Fruit Emoji 127818](127818.jpg)
+
+Code: &#129381
+
+![Fruit Emoji 129381](129381.jpg)
+
+Code: &#127813
+
+![Fruit Emoji 127813](127813.jpg)
+
+Code: &#129389
+
+![Fruit Emoji 129389](129389.jpg)
+
+Code: &#127826
+
+![Fruit Emoji 127826](127826.jpg)
 
 ## Colors
 
