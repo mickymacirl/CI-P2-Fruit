@@ -80,7 +80,7 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ![Logo Fonts](/assets/images/largeicon_c.jpg)
 
-* Choose the Gliker Semi Bold and HK Modular Adobe Fonts for the logo design.
+* Choose the *[Gliker Semi Bold](https://www.whatfontis.com/NMY_Gliker-Semi-Bold.font)* and *[HK Modular](https://www.fontpath.com/?layout=grid&color=white&adjust=capital&sort=popular&size=100&spacing=0&name=&cat=170&text=&expand=T11882&page=2)* available for use on the *[Canva](https://www.canva.com/)* platform for the logo design.
 
 ## Wireframes
 
