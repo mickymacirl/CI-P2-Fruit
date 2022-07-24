@@ -21,6 +21,22 @@ const state = {
 };
 
 /* Reference: https://www.webtips.dev/memory-game-in-javascript */
+/* Shuffle Array */
+const shuffle = array => {
+    const clonedArray = [...array];
+
+    for (let index = clonedArray.length - 1; index > 0; index--) {
+        const randomIndex = Math.floor(Math.random() * (index + 1));
+        const original = clonedArray[index];
+
+        clonedArray[index] = clonedArray[randomIndex];
+        clonedArray[randomIndex] = original;
+    }
+
+    return clonedArray;
+};
+
+/* Reference: https://www.webtips.dev/memory-game-in-javascript */
 /* Pick Random Array function */
 
 const pickRandom = (array, items) => {
