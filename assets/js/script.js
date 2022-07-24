@@ -94,3 +94,12 @@ const startGame = () => {
     }, 1000);
 };
 
+/* Reference: https://www.webtips.dev/memory-game-in-javascript */
+/* flipbackcards function */
+const flipBackCards = () => {
+    document.querySelectorAll('.card:not(.matched)').forEach(card => {
+        card.classList.remove('flipped');
+    });
+
+    state.flippedCards = 0;
+};
