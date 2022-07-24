@@ -125,6 +125,16 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Version Control
 
+Both Visual Studio code editor and GitPod were used to create this site and then pushed to the GitHub remote repository named ‘CI-P2-Fruit’.
+
+ The following commands were used to push code to the remote repository:
+
+*git add .* was used to stage all files for commit changes
+
+*git commit -m “commit message”* was used to add the changes to the local repository for upload during a push
+
+*git push* was used to push all local changes to the remote repository on GitHub.
+
 ## Deployment to GitHub Pages
 
 ## Deploying New Changes
@@ -136,6 +146,10 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 ## Mentor Support
 
 * Mentor support from *[Daisy McGirr](https://github.com/Daisy-McG)*.
+
+## Markdown Language
+
+* Used syntax from *[Markdown Guide](https://www.markdownguide.org/basic-syntax/)* for reference.
 
 ## Sticky Header and Footer
 
