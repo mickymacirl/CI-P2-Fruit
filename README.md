@@ -91,6 +91,8 @@ Code: &#129389
 
 Code: &#127826
 
+127818
+
 ![Fruit Emoji 127826](127826.jpg)
 
 | EMOJI       | Unicode Hex | HTML Dec Value |Image           |
@@ -100,7 +102,7 @@ Code: &#127826
 | Strawberry  | U+1F353     | &#127827       |Image           |
 | Green Apple | U+1F34F     | &#127823       |Image           |
 | Pineapple   | U+1F34D     | &#127821       |Image           |
-| Tangerine   | U+1F34A     | &#127818       |Image           |
+| Tangerine   | U+1F34A     | &#127818       |![Fruit Emoji 127818](./assets/readme/127818.jpg)|
 | Coconut     | U+1F965     | &#129381       |![Fruit Emoji 129381](./assets/readme/129381.jpg)|
 | Tomato      | U+1F345     | &#127813       |![Fruit Emoji 127813](./assets/readme/127813.jpg)|
 | Mango       | U+1F96D     | &#129389       |![Fruit Emoji 129389](./assets/readme/129389.jpg)|
