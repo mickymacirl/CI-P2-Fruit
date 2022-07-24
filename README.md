@@ -210,6 +210,14 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
 * Used syntax from *[Markdown Guide](https://www.markdownguide.org/basic-syntax/)* for reference.
 
+## Markdown Table Generator
+
+* Used TableGenerator.com's *[Table Generator](https://www.tablesgenerator.com/markdown_tables) to build Emoji Readme Table.
+
+## Meta Tags
+
+* Used SEO Timers *[Meta Tag Generator](https://www.seoptimer.com/meta-tag-generator)* to generate html meta-tags.
+
 ## Sticky Header and Footer
 
 * Sticky Header and Footer from *[Tutorial Republic](https://www.tutorialrepublic.com/faq/how-to-create-fixed-header-or-footer-using-css.php)*.
