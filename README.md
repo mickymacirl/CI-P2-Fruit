@@ -27,6 +27,12 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ![Footer](footer.jpg)
 
+## Game Board
+
+* The Main Game Board (game.html) is a 4x4 set of cards which can be turned with a mouse click, clicking a second card to try find the fruit match. If unsuccessful, both unmatched turned cards revert back to being unturned.
+
+* The board is built using the *[Grid Template Columns](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns)* CSS property.
+
 ## Design Choices
 
 ## Colors
@@ -164,6 +170,12 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 ## WebTips.Dev Memory Game
 
 * WebTips.Dev Memory Game from *[WebTips.Dev](https://www.webtips.dev/memory-game-in-javascript)*.
+
+## Grid Template Columns
+
+* Used *[Grid Template Columns](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns)* for reference for main game board.
+
+* Used *[W3 School Grid Template Columns](https://www.w3schools.com/CSSref/pr_grid-template-columns.asp)* for reference and troubleshooting main game board.
 
 ## Fruit Emojis
 
