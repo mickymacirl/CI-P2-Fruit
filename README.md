@@ -154,3 +154,29 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 ## Mozilla.org Reference
 
 * Reference from *[Mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)*.
+
+## Unicorn Revealer
+
+* Used *[Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB)* to troubleshoot lay out and responsiveness.
+
+## Chrome Dev Tools
+
+* Used *[Chrome Dev tools](https://developers.google.com/web/tools)* to debug code and troubleshoot lay out and responsiveness.
+
+## Git and GitHub
+
+* Used *[W3C Git Tutorial](https://www.w3schools.com/git/default.asp?remote=github)* for reference.
+
+* Used *[GitHub Git-Guides](https://github.com/git-guides)* for reference.
+
+## Multi Device Website Mockup Generator
+
+* Used *[Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/index.php)* to create mutli-device mockup.
+
+## Version Control
+
+* Used *[GitHub.io](https://ourcodingclub.github.io/tutorials/git/)* How To's for reference.
+
+## Content
+
+* Logo created using *[Canva](https://www.canva.com/)* and *[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)*.
