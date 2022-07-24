@@ -195,7 +195,7 @@ The following commands were used to push code to the remote repository:
 
 ## Version Control
 
-* Used *[GitHub.io](https://ourcodingclub.github.io/tutorials/git/)* How To's for reference.
+* Used Our Coding Club *[GitHub.io](https://ourcodingclub.github.io/tutorials/git/)* How To's for reference.
 
 ## Content
 
