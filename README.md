@@ -70,6 +70,12 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Fonts
 
+* Choose the font *[Muli from Adobe Fonts](https://fonts.adobe.com/fonts/muli)* for the main text of the website and buttons.
+
+![Muli Font](/assets/readme/mulirm.jpg)
+
+* Muli is no longer listed under Google Fonts but can still be imported for use with a website, explanation found *[here](https://www.reddit.com/r/fonts/comments/i1b44r/did_google_remove_muli_font_from_its_collection/here)*.
+
 ## Wireframes
 
 ### Landing Page
@@ -219,6 +225,10 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 ## Mozilla.org Reference
 
 * Reference from *[Mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)*.
+
+## Adobe Fonts
+
+* Used *[Muli from Adobe Fonts](https://fonts.adobe.com/fonts/muli)* for screenshots for readme.
 
 ## Unicorn Revealer
 
