@@ -24,13 +24,6 @@ body {
     padding-bottom: 40px;
 }
 
-/* Styling Main */
-main {
-    margin: 0 auto;
-    width: 80%;
-    border: solid 1px;
-}
-
 /* Fixed Header and Footer CSS Styling */
 .fixed-header,
 .fixed-footer {
@@ -197,6 +190,8 @@ main {
     font-size: 12pt;
     color: #282A3A;
 }
+
+/* Styling Main */
 main {
     margin: 0 auto;
     width: 80%;
