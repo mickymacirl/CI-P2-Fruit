@@ -112,3 +112,89 @@ main {
     color: #fff;
     font-size: 14pt;
 }
+
+/* Styling board-container */
+.board-container {
+    position: relative;
+}
+
+/* Styling board and win */
+.board,
+.win {
+    border-radius: 5px;
+    width: auto;
+    box-shadow: 0 25px 50px rgb(33 33 33 / 25%);
+    background: linear-gradient(70deg, #225127 0%, #e0a026 50%, #fcc700 100%);
+    transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
+    backface-visibility: hidden;
+}
+.board {
+    padding: 5px;
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-gap: 5px;
+}
+
+/* Styling board-container flipped board and win rotate */
+.board-container.flipped .board {
+    transform: rotateY(180deg) rotateZ(50deg);
+}
+.board-container.flipped .win {
+    transform: rotateY(0) rotateZ(0);
+}
+
+/* Styling card position and w and h */
+.card {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+/* Styling card front and back position and transform */
+.card-front,
+.card-back {
+    position: absolute;
+    border-radius: 5px;
+    align-content: center;
+    width: 100%;
+    height: 100%;
+    background: #7b8f3d;
+    transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
+    backface-visibility: hidden;
+    background-image: url("../images/backcardtemp_small.png");
+}
+.card-back {
+    transform: rotateY(180deg) rotateZ(50deg);
+    font-size: 18pt;
+    user-select: none;
+    text-align: center;
+    line-height: 100px;
+    background: #7b8f3d;
+}
+.card.flipped .card-front {
+    transform: rotateY(180deg) rotateZ(50deg);
+}
+.card.flipped .card-back {
+    transform: rotateY(0) rotateZ(0);
+}
+.win {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background: #7b8f3d;
+    transform: rotateY(180deg) rotateZ(50deg);
+}
+
+/* Win text position and top left and transform */
+.win-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 12pt;
+    color: #282A3A;
+}
