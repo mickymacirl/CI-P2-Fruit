@@ -127,8 +127,8 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 ## User Goals
 
 * Visually attractive game website.
-* Easy to navigate the website.
-* Display moves and time easily.
+* It is easy to navigate the website.
+* Can see my moves and time easily.
 
 ## User Stories
 
@@ -139,7 +139,7 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Site Owner Goals
 
-* For create a website that is easy to navigate.
+* To create a website that is easy to navigate.
 * To create an appealing website that a user will want to visit.
 
 ## Technology
