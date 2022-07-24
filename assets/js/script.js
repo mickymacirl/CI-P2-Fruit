@@ -147,3 +147,23 @@ const flipCard = card => {
         }, 1000);
     }
 };
+
+/* Reference: https://www.webtips.dev/memory-game-in-javascript */
+/* event listeners function */
+const attachEventListeners = () => {
+    document.addEventListener('click', event => {
+        const eventTarget = event.target;
+        const eventParent = eventTarget.parentElement;
+
+
+        if (eventTarget.className.includes('card') && !eventParent.className.includes('flipped')) {
+            flipCard(eventParent);
+        } else if (eventTarget.nodeName === 'BUTTON' && !eventTarget.className.includes('disabled')) {
+            startGame();
+        }
+    });
+};
+
+/* Reference: https://www.webtips.dev/memory-game-in-javascript */
+generateGame();
+attachEventListeners();
