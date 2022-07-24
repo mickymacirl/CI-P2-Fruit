@@ -53,51 +53,9 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 * The following Emoji's were used to randomly fill main game board:
 
-Code: &#127815
-
-![Fruit Emoji 127815](127815.jpg)
-
-Code: &#127820
-
-![Fruit Emoji 127820](127820.jpg)
-
-Code: &#127827
-
-![Fruit Emoji 127827](127827.jpg)
-
-Code: &#127823
-
-![Fruit Emoji 127823](127823.jpg)
-
-Code: &#127821
-
-![Fruit Emoji 127821](127821.jpg)
-
-Code: &#127818
-
-![Fruit Emoji 127818](127818.jpg)
-
-Code: &#129381
-
-![Fruit Emoji 129381](129381.jpg)
-
-Code: &#127813
-
-![Fruit Emoji 127813](127813.jpg)
-
-Code: &#129389
-
-![Fruit Emoji 129389](129389.jpg)
-
-Code: &#127826
-
-127820
-
-![Fruit Emoji 127826](127826.jpg)
-
 | EMOJI       | Unicode Hex | HTML Dec Value |Image           |
 |-------------|-------------|----------------|----------------|
-| Grapes      | U+1F347     | &#127815       |Image           |
+| Grapes      | U+1F347     | &#127815       |![Fruit Emoji 127815](./assets/readme/127815.jpg)|
 | Banana      | U+1F34C     | &#127820       |![Fruit Emoji 127820](./assets/readme/127820.jpg)|
 | Strawberry  | U+1F353     | &#127827       |![Fruit Emoji 127827](./assets/readme/127827.jpg)|
 | Green Apple | U+1F34F     | &#127823       |![Fruit Emoji 127823](./assets/readme/127823.jpg)|
