@@ -93,6 +93,19 @@ Code: &#127826
 
 ![Fruit Emoji 127826](127826.jpg)
 
+| EMOJI       | Unicode Hex | HTML Dec Value |
+|-------------|-------------|----------------|
+| Grapes      | U+1F347     | &#127815       |
+| Banana      | U+1F34C     | &#127820       |
+| Strawberry  | U+1F353     | &#127827       |
+| Green Apple | U+1F34F     | &#127823       |
+| Pineapple   | U+1F34D     | &#127821       |
+| Tangerine   | U+1F34A     | &#127818       |
+| Coconut     | U+1F965     | &#129381       |
+| Tomato      | U+1F345     | &#127813       |
+| Mango       | U+1F96D     | &#129389       |
+| Cherries    | U+1F352     | &#127826       |
+
 ## Colors
 
 ## Fonts
