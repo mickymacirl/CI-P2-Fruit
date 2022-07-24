@@ -25,7 +25,6 @@ body {
 }
 
 /* Styling Main */
-
 main {
     margin: 0 auto;
     width: 80%;
@@ -197,4 +196,9 @@ main {
     transform: translate(-50%, -50%);
     font-size: 12pt;
     color: #282A3A;
+}
+main {
+    margin: 0 auto;
+    width: 80%;
+    border: solid 1px;
 }
