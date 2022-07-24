@@ -103,7 +103,7 @@ Code: &#127826
 | Tangerine   | U+1F34A     | &#127818       |Image           |
 | Coconut     | U+1F965     | &#129381       |Image           |
 | Tomato      | U+1F345     | &#127813       |Image           |
-| Mango       | U+1F96D     | &#129389       |Image           |
+| Mango       | U+1F96D     | &#129389       |![Fruit Emoji 129389](./assets/readme/129389.jpg)          |
 | Cherries    | U+1F352     | &#127826       |![Fruit Emoji 127826](./assets/readme/127826.jpg)|
 
 ## Colors
