@@ -194,6 +194,12 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Validator Testing
 
+### Jshint
+
+* Used Jshint to test Javacript, reults are showing no errors.
+
+![Jshint Results](./assets/readme/jshintrm.jpg)
+
 ## Deployment
 
 ## Template
