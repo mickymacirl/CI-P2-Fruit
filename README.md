@@ -139,6 +139,10 @@ The following commands were used to push code to the remote repository:
 
 ## Deploying New Changes
 
+Once **GitHub Pages** is set up, normal **GithHub** flow updates the live page.
+
+View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
+
 ## Cone the 'CI-P2 Fruit Game' GitHub Code Respository locally
 
 ## Credits
