@@ -21,6 +21,23 @@ const state = {
 };
 
 /* Reference: https://www.webtips.dev/memory-game-in-javascript */
+/* Pick Random Array function */
+
+const pickRandom = (array, items) => {
+    const clonedArray = [...array];
+    const randomPicks = [];
+
+    for (let index = 0; index < items; index++) {
+        const randomIndex = Math.floor(Math.random() * clonedArray.length);
+        
+        randomPicks.push(clonedArray[randomIndex]);
+        clonedArray.splice(randomIndex, 1);
+    }
+
+    return randomPicks;
+};
+
+/* Reference: https://www.webtips.dev/memory-game-in-javascript */
 /* generategame board */
 const generateGame = () => {
     const dimensions = selectors.board.getAttribute('data-dimension');
