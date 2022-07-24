@@ -91,7 +91,7 @@ Code: &#129389
 
 Code: &#127826
 
-127823
+127827
 
 ![Fruit Emoji 127826](127826.jpg)
 
@@ -99,7 +99,7 @@ Code: &#127826
 |-------------|-------------|----------------|----------------|
 | Grapes      | U+1F347     | &#127815       |Image           |
 | Banana      | U+1F34C     | &#127820       |Image           |
-| Strawberry  | U+1F353     | &#127827       |Image           |
+| Strawberry  | U+1F353     | &#127827       |![Fruit Emoji 127827](./assets/readme/127827.jpg)|
 | Green Apple | U+1F34F     | &#127823       |![Fruit Emoji 127823](./assets/readme/127823.jpg)|
 | Pineapple   | U+1F34D     | &#127821       |![Fruit Emoji 127821](./assets/readme/127821.jpg)|
 | Tangerine   | U+1F34A     | &#127818       |![Fruit Emoji 127818](./assets/readme/127818.jpg)|
