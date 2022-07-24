@@ -38,7 +38,6 @@ const shuffle = array => {
 
 /* Reference: https://www.webtips.dev/memory-game-in-javascript */
 /* Pick Random Array function */
-
 const pickRandom = (array, items) => {
     const clonedArray = [...array];
     const randomPicks = [];
@@ -79,5 +78,19 @@ const generateGame = () => {
     const parser = new DOMParser().parseFromString(cards, 'text/html');
 
     selectors.board.replaceWith(parser.querySelector('.board'));
+};
+
+/* Reference: https://www.webtips.dev/memory-game-in-javascript */
+/* startgame function */
+const startGame = () => {
+    state.gameStarted = true;
+    selectors.start.classList.add('disabled');
+
+    state.loop = setInterval(() => {
+        state.totalTime++;
+
+        selectors.moves.innerText = `${state.totalFlips} moves`;
+        selectors.timer.innerText = `time: ${state.totalTime} sec`;
+    }, 1000);
 };
 
