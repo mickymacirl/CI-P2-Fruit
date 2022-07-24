@@ -83,9 +83,8 @@ nav {
     display: inline-block;
 }
 
-/* Styling nav a text
+/* Styling nav a text */
 nav a {
-    color: #fff;
     text-decoration: none;
     padding: 7px 25px;
     display: inline-block;
