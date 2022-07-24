@@ -212,7 +212,7 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
 ## Markdown Table Generator
 
-* Used TableGenerator.com [Table Generator](https://www.tablesgenerator.com/markdown_tables) to build Emoji Readme Table.
+* Used TableGenerator.com *[Table Generator](https://www.tablesgenerator.com/markdown_tables)* to build Emoji Readme Table.
 
 ## Meta Tags
 
