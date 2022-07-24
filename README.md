@@ -41,6 +41,8 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 * The board is built using the *[Grid Template Columns](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns)* CSS property.
 
+![Grid Readme](/assets/readme/gridrm.jpg)
+
 * The Main Game Board has a Play Again button which links back to Index.html.
 
 ![Play Again Readme](/assets/readme/playagainrm.jpg)
