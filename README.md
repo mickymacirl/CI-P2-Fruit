@@ -68,6 +68,12 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Colors
 
+* The website and logo and text effects use the following colors which go together well.
+
+* Forest Green Traditional, Marigold and Golden Poppy.
+
+![Colors Website](/assets/readme/colorsrm.jpg)
+
 ## Fonts
 
 * The below fonts look well together on the page, and suit the look and feel of the website.
