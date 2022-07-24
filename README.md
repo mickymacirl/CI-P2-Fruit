@@ -121,6 +121,8 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Template
 
+* A repository called 'CI-P2-Fruit' was created using the *[Code Institute GitPod Full Template](https://github.com/Code-Institute-Org/gitpod-full-template)*.
+
 ## Version Control
 
 ## Deployment to GitHub Pages
