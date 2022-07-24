@@ -51,11 +51,28 @@ main {
     bottom: 0;
 }
 
-/* Style h/f container */
+/* Styling h/f container */
 .container {
     width: 100%;
     align-items: center;
     margin: 0 auto;
+}
+
+/* Styling a behavior and color */
+a:link {
+    color: #225127;
+}
+
+a:visited {
+    color: #fcc700;
+}
+
+a:hover {
+    color: #fcc700;
+}
+
+a:active {
+    color: #225127;
 }
 
 /* Styling nav text */
