@@ -93,18 +93,18 @@ Code: &#127826
 
 ![Fruit Emoji 127826](127826.jpg)
 
-| EMOJI       | Unicode Hex | HTML Dec Value |
-|-------------|-------------|----------------|
-| Grapes      | U+1F347     | &#127815       |
-| Banana      | U+1F34C     | &#127820       |
-| Strawberry  | U+1F353     | &#127827       |
-| Green Apple | U+1F34F     | &#127823       |
-| Pineapple   | U+1F34D     | &#127821       |
-| Tangerine   | U+1F34A     | &#127818       |
-| Coconut     | U+1F965     | &#129381       |
-| Tomato      | U+1F345     | &#127813       |
-| Mango       | U+1F96D     | &#129389       |
-| Cherries    | U+1F352     | &#127826       |
+| EMOJI       | Unicode Hex | HTML Dec Value |Image           |
+|-------------|-------------|----------------|----------------|
+| Grapes      | U+1F347     | &#127815       |Image           |
+| Banana      | U+1F34C     | &#127820       |Image           |
+| Strawberry  | U+1F353     | &#127827       |Image           |
+| Green Apple | U+1F34F     | &#127823       |Image           |
+| Pineapple   | U+1F34D     | &#127821       |Image           |
+| Tangerine   | U+1F34A     | &#127818       |Image           |
+| Coconut     | U+1F965     | &#129381       |Image           |
+| Tomato      | U+1F345     | &#127813       |Image           |
+| Mango       | U+1F96D     | &#129389       |Image           |
+| Cherries    | U+1F352     | &#127826       |Image           |
 
 ## Colors
 
