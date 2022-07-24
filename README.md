@@ -76,6 +76,12 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 * Muli is no longer listed under Google Fonts but can still be imported for use with a website, explanation found *[here](https://www.reddit.com/r/fonts/comments/i1b44r/did_google_remove_muli_font_from_its_collection/here)*.
 
+## Logo
+
+![Logo Fonts](/assets/images/largeicon_c.jpg)
+
+* Choose the Gliker Semi Bold and HK Modular Adobe Fonts for the logo design.
+
 ## Wireframes
 
 ### Landing Page
