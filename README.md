@@ -272,6 +272,12 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
 * Javascript Basics from *[JsChallenger.com](https://www.jschallenger.com/javascript-fundamentals/javascript-basics)*.
 
+## W3 School Responsive Web Design - Images
+
+* Used *[W3 School Responsive Web Design - Images](https://www.w3schools.com/css/css_rwd_images.asp)* to resize logo image. 
+
+https://www.w3schools.com/css/css_rwd_images.asp
+
 ## Mozilla.org Reference
 
 * Reference from *[Mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)*.
