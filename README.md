@@ -25,7 +25,7 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 * The website has a fixed footer which describes what programs the site was designed in, with a link to each that opens in a new page.
 * Users will be able to find additonal information about the programs used.
 
-![Footer](footer.jpg)
+![Footer Readme](./assets/readme/footerrm.jpg)
 
 ## Index Page
 
