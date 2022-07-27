@@ -216,7 +216,7 @@ main {
 }
 
 /* Styling media query to hide header and footer on devices below 300 px */
-@media only screen and (max-device-width: 300px) and (-webkit-min-device-pixel-ratio: 2) {
+@media only screen and (max-width: 300px) {
 
     .fixed-header,
     .fixed-footer {
@@ -225,7 +225,7 @@ main {
 }
 
 /* Styling media query to reduce size of font in header and footer at 360px */
-@media screen and (max-device-width: 380px) {
+@media screen and (max-width: 380px) {
 
     .fixed-header,
     .fixed-footer,
@@ -237,14 +237,14 @@ main {
 }
 
 /* Styling media query to reduce size of start button on 380px */
-@media screen and (max-device-width: 380px) {
+@media screen and (max-width: 380px) {
     button {
         padding: 5px 10px;
     }
 }
 
 /* Styling media quaery to increase size of font in header and footer at 700px and above */
-@media screen and (min-device-width: 700px) {
+@media screen and (min-width: 700px) {
 
     .fixed-header,
     .fixed-footer {
