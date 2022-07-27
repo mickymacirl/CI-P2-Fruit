@@ -52,6 +52,15 @@ body {
     text-align: initial;
 }
 
+/* Styling feedback contact container */
+.contact-container {
+    max-width: 90vw;
+    border-radius: 5px;
+    background-color: #dcdcdc;
+    margin: auto;
+    padding: 10px;
+  }
+
 /* Styling a behavior and color */
 a:link {
     color: #225127;
