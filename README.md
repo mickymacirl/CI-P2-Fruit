@@ -276,8 +276,6 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
 * Used *[W3 School Responsive Web Design - Images](https://www.w3schools.com/css/css_rwd_images.asp)* to resize logo image.
 
-<https://www.w3schools.com/css/css_rwd_images.asp>
-
 ## Mozilla.org Reference
 
 * Reference from *[Mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)*.
