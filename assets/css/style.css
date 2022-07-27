@@ -91,6 +91,16 @@ main {
     transform: translate(-50%, 50%);
 }
 
+/* Styling normal html pages */
+.normalpage {
+    width: auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -100px;
+  }
+
 /* Styling controls and force to bottom to hug game board */
 .controls {
     display: flex;
