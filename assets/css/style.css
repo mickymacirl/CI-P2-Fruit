@@ -93,12 +93,13 @@ main {
 
 /* Styling normal html pages */
 .normalpage {
-    width: auto;
+    text-align: center;
+    width: 60%;
     position: fixed;
-    top: 50%;
-    left: 50%;
-    margin-top: -50px;
-    margin-left: -100px;
+    top: 30%;
+    left: 20%;
+    border: 3px solid #225127;
+    padding: 10px;
   }
 
 /* Styling controls and force to bottom to hug game board */
