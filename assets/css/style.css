@@ -78,8 +78,8 @@ textarea {
 
 /* Styling the submit button */
 input[type=submit] {
-  background-color: #b29e84;
-  color: #253439;
+  background-color: #225127;
+  color: #FFF;
   padding: 12px 20px;
   border: none;
   border-radius: 4px;
@@ -88,8 +88,8 @@ input[type=submit] {
 
 /* Styling the submit hover over */
 input[type=submit]:hover {
-  background-color: #253439;
-  color: #b29e84;
+  background-color: #7b8f3d;
+  color: #fcc700;
 }
 
 /* Styling a behavior and color */
