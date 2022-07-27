@@ -208,3 +208,13 @@ main {
     width: 80%;
     border: solid 0px;
 }
+
+/* Styling media query to hide header and footer on devices below 300 px */
+@media only screen 
+  and (max-device-width: 300px) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+	.fixed-header,  
+   .fixed-footer{
+      display: none;
+   }
+}
