@@ -274,9 +274,9 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
 ## W3 School Responsive Web Design - Images
 
-* Used *[W3 School Responsive Web Design - Images](https://www.w3schools.com/css/css_rwd_images.asp)* to resize logo image. 
+* Used *[W3 School Responsive Web Design - Images](https://www.w3schools.com/css/css_rwd_images.asp)* to resize logo image.
 
-https://www.w3schools.com/css/css_rwd_images.asp
+<https://www.w3schools.com/css/css_rwd_images.asp>
 
 ## Mozilla.org Reference
 
@@ -296,7 +296,7 @@ https://www.w3schools.com/css/css_rwd_images.asp
 
 ## Media Genius
 
-* Used *[Media Genius]*(https://responsivedesignchecker.com/)* responsiveness website to troubleshoot lay out and responsiveness.
+* Used *[Media Genius]*(<https://responsivedesignchecker.com/>)* responsiveness website to troubleshoot lay out and responsiveness.
 
 ## Git and GitHub
 
