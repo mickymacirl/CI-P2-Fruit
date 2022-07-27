@@ -101,7 +101,7 @@ main {
     border: 3px solid #225127;
     padding: 10px;
     font-size: 10px;
-  }
+}
 
 /* Styling controls and force to bottom to hug game board */
 .controls {
@@ -243,6 +243,7 @@ main {
     .fixed-footer,
     .stats,
     .controls,
+    .normalpage,
     button {
         font-size: 10px;
     }
@@ -258,6 +259,7 @@ main {
 /* Styling media quaery to increase size of font in header and footer at 700px and above */
 @media screen and (min-width: 700px) {
 
+    .normalpage,
     .fixed-header,
     .fixed-footer {
         font-size: 20px;
