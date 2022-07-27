@@ -246,6 +246,10 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
 * Used SEO Timers *[Meta Tag Generator](https://www.seoptimer.com/meta-tag-generator)* to generate html meta-tags.
 
+## W3 Schools Media Queries
+
+* Used W3 Schools *[CSS Media Queries - More Examples](https://www.w3schools.com/Css/css3_mediaqueries_ex.asp)* to code media queries.
+
 ## Sticky Header and Footer
 
 * Sticky Header and Footer from *[Tutorial Republic](https://www.tutorialrepublic.com/faq/how-to-create-fixed-header-or-footer-using-css.php)*.
