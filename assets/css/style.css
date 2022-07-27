@@ -86,7 +86,7 @@ nav a {
 .game,
 main {
     position: absolute;
-/*    top: 50%; */
+    /*    top: 50%; */
     left: 50%;
     transform: translate(-50%, 50%);
 }
@@ -131,6 +131,7 @@ button {
     transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
     backface-visibility: hidden;
 }
+
 .board {
     padding: 5px;
     display: grid;
@@ -142,6 +143,7 @@ button {
 .board-container.flipped .board {
     transform: rotateY(180deg) rotateZ(50deg);
 }
+
 .board-container.flipped .win {
     transform: rotateY(0) rotateZ(0);
 }
@@ -167,6 +169,7 @@ button {
     backface-visibility: hidden;
     background-image: url("../images/backcardtemp_small.png");
 }
+
 .card-back {
     transform: rotateY(180deg) rotateZ(50deg);
     font-size: 18pt;
@@ -175,12 +178,15 @@ button {
     line-height: 50px;
     background: #7b8f3d;
 }
+
 .card.flipped .card-front {
     transform: rotateY(180deg) rotateZ(50deg);
 }
+
 .card.flipped .card-back {
     transform: rotateY(0) rotateZ(0);
 }
+
 .win {
     position: absolute;
     top: 0;
@@ -210,25 +216,38 @@ main {
 }
 
 /* Styling media query to hide header and footer on devices below 300 px */
-@media only screen 
-  and (max-device-width: 300px) 
-  and (-webkit-min-device-pixel-ratio: 2) {
-	.fixed-header,  
-   .fixed-footer{
-      display: none;
-   }
-}
-/* Styling media query to reduce size of font in header and footer at 360px */
-@media screen and (max-device-width: 380px) {
-	.fixed-header,
-	.fixed-footer {
-		font-size: 10px;
+@media only screen and (max-device-width: 300px) and (-webkit-min-device-pixel-ratio: 2) {
+
+    .fixed-header,
+    .fixed-footer {
+        display: none;
     }
 }
+
+/* Styling media query to reduce size of font in header and footer at 360px */
+@media screen and (max-device-width: 380px) {
+
+    .fixed-header,
+    .fixed-footer,
+    .stats,
+    .controls,
+    button {
+        font-size: 10px;
+    }
+}
+
+/* Styling media query to reduce size of start button on 380px */
+@media screen and (max-device-width: 380px) {
+    button {
+        padding: 5px 10px;
+    }
+}
+
 /* Styling media quaery to increase size of font in header and footer at 700px and above */
 @media screen and (min-device-width: 700px) {
-	.fixed-header,
-	.fixed-footer {
-		font-size: 20px;
+
+    .fixed-header,
+    .fixed-footer {
+        font-size: 20px;
     }
 }
