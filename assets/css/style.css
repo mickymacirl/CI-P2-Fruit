@@ -30,7 +30,8 @@ body {
     width: 100%;
     position: fixed;
     background: linear-gradient(12deg, #225127 0%, #e0a026 50%, #fcc700 100%);
-    padding: 10px 0;
+    padding: 10px 10px;
+    left: 0;
 }
 
 /* Fixed header to Top */
