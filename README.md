@@ -294,7 +294,7 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
 ## Media Genius
 
-* Used *[Media Genius]*(<https://responsivedesignchecker.com/>)* responsiveness website to troubleshoot lay out and responsiveness.
+* Used *[Media Genius](<https://responsivedesignchecker.com/>)* responsiveness website to troubleshoot lay out and responsiveness.
 
 ## Git and GitHub
 
