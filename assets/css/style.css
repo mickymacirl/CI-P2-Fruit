@@ -223,4 +223,12 @@ main {
 	.fixed-header,
 	.fixed-footer {
 		font-size: 10px;
-}}
+    }
+}
+/* Styling media quaery to increase size of font in header and footer at 700px and above */
+@media screen and (min-device-width: 700px) {
+	.fixed-header,
+	.fixed-footer {
+		font-size: 20px;
+    }
+}
