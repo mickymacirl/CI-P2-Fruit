@@ -234,6 +234,13 @@ main {
     .fixed-footer {
         display: none;
     }
+    .game,
+    main {
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
 }
 
 /* Styling media query to reduce size of font in header and footer at 360px */
