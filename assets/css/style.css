@@ -54,12 +54,43 @@ body {
 
 /* Styling feedback contact container */
 .contact-container {
-    max-width: 90vw;
+    max-width: 300px;
     border-radius: 5px;
     background-color: #fcc700;
     margin: auto;
     padding: 10px;
   }
+
+  /* Styling the Contact form */
+/* Styling the text area */
+input[type=text],
+select,
+textarea {
+  width: 90%;
+  padding: 12px;
+  border: 1px solid #ffffff;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+/* Styling the submit button */
+input[type=submit] {
+  background-color: #b29e84;
+  color: #253439;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Styling the submit hover over */
+input[type=submit]:hover {
+  background-color: #253439;
+  color: #b29e84;
+}
 
 /* Styling a behavior and color */
 a:link {
