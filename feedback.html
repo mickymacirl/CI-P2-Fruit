@@ -29,7 +29,26 @@
         </div>
     </header>
     <main>
-        <div>Feedback</div>
+        <div class="contact-container">
+            <form method="POST" action="https://formdump.codeinstitute.net/">
+              <br>
+              <label for="fname">First Name: </label>
+              <input type="text" id="fname" name="firstname" placeholder="Your name.." required>
+              <br>
+              <label for="lname">Last Name: </label>
+              <input type="text" id="lname" name="lastname" placeholder="Your last name.." required>
+              <p>
+                <label for="subject">
+                  Subject:
+                </label>
+                <br>
+                <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"
+                  required></textarea>
+                <br>
+                <input type="submit" value="Submit">
+      
+            </form>
+          </div>
     </main>
     <footer>
         <div class="fixed-footer">
