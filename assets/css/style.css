@@ -23,6 +23,12 @@ body {
     padding-bottom: 40px;
 }
 
+/* Style Logo through img */
+img {
+    width: 100%;
+    height: auto;
+  }
+
 /* Fixed Header and Footer CSS Styling */
 .fixed-header,
 .fixed-footer {
