@@ -219,7 +219,7 @@ main {
    }
 }
 /* Styling media query to reduce size of font in header and footer at 360px */
-@media screen and (max-device-width: 360px) {
+@media screen and (max-device-width: 380px) {
 	.fixed-header,
 	.fixed-footer {
 		font-size: 10px;
