@@ -165,7 +165,7 @@ button {
 }
 
 /* Styling game stats and font size */
-.stats {
+.stats, h1 {
     color: #fff;
     font-size: 14pt;
 }
