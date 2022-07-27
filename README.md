@@ -288,6 +288,10 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
 * Used *[Chrome Dev tools](https://developers.google.com/web/tools)* to debug code and troubleshoot lay out and responsiveness.
 
+## Media Genius
+
+* Used *[Media Genius]*(https://responsivedesignchecker.com/)* responsiveness website to troubleshoot lay out and responsiveness.
+
 ## Git and GitHub
 
 * Used *[W3C Git Tutorial](https://www.w3schools.com/git/default.asp?remote=github)* for reference.
