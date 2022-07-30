@@ -228,11 +228,19 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Validator Testing
 
-### Jshint
+### Javascript Validator Testing
 
 * Used Jshint to test Javacript, results are showing no errors. In order to achieve no issues the validator needs to be configured to allow ES6 through the configuration options or by adding the comment, "/* jshint esversion: 6 */" at the top of the Javascript paste/file.
 
 ![Jshint Results](./assets/readme/jshintrm.jpg)
+
+## HTML Validator Testing
+
+* Used *[W3 HTML Validator](https://jigsaw.w3.org/css-validator/)* to validate HTML, results are showing no errors.
+
+## CSS Validator Testing
+
+* Used *[W3 CSS Validator](https://jigsaw.w3.org/css-validator/)* to validate CSS, results are showing no errors.
 
 ## Deployment
 
