@@ -299,7 +299,7 @@ main {
 }
 
 /* Styling media query to reduce size of font in header and footer at 360px */
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 480px) {
 
     .fixed-header,
     .fixed-footer,
@@ -312,7 +312,7 @@ main {
 }
 
 /* Styling media query to reduce size of start button on 380px */
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 480px) {
     button {
         padding: 5px 10px;
     }
