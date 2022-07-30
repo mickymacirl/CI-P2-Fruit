@@ -96,6 +96,12 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 | Mango       | U+1F96D     | &#129389       |![Fruit Emoji 129389](./assets/readme/129389.jpg)|
 | Cherries    | U+1F352     | &#127826       |![Fruit Emoji 127826](./assets/readme/127826.jpg)|
 
+## Back of Card Image
+
+* From the Site Logo, created a back of the card image to display card front before a card is flipped.
+
+![Card Back](/assets/readme/backcardrm.jpg)
+
 ## Colors
 
 * The website, logo and text effects use the following colors which go together well.
