@@ -284,6 +284,8 @@ The form should display the message "Please fill out this field".
 
 The form displayed the message "Please fill out this field".
 
+![Form Testing](/assets/readme/feedbacktestingrm.jpg)
+
 ## Game Function Validation
 
 The Win message was tested so that when a user finishes the game successfully by matching all fruit pairs, the game area should transform to a win screen with the the total flips and total time taken.
