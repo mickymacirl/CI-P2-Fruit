@@ -308,7 +308,7 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
 ## Favicon
 
-* Used to https://www.favicon-generator.org/ generate the favicon and *[W3 Schools HTML Favicon](https://www.w3schools.com/html/html_favicon.asp)* for the HTML.
+* Used *[Favicon & App Icon Generator](https://www.favicon-generator.org/)* to generate the favicon and *[W3 Schools HTML Favicon](https://www.w3schools.com/html/html_favicon.asp)* for the HTML.
 
 ## W3 School Responsive Web Design - Images
 
