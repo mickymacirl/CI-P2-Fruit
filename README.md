@@ -292,6 +292,26 @@ The form displayed the message "Please fill out this field".
 
 ![Form Testing](/assets/readme/feedbacktestrm.jpg)
 
+## Favicon Validation
+
+The Favicon was tested so that when a user loads a page, the favicon should display in the top bar of the browser window.
+
+**Test Steps:**
+
+    Open the corresponding browser and open the Match 2 Fruit Game website.
+    Confirm visually that the favicon is in place by checking the top bar of the browser
+    
+
+**Expected:**
+
+The web browser should display the favicon for the page.
+
+**Actual:**
+
+The web browser displayed the favicon for the page.
+
+![Favicon Testing](/assets/readme/faviconrm.jpg)
+
 ## Game Function Validation
 
 The Win message was tested so that when a user finishes the game successfully by matching all fruit pairs, the game area should transform to a win screen with the the total flips and total time taken.
