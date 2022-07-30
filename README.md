@@ -120,6 +120,12 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 * Used the *[Gliker Semi Bold](https://www.whatfontis.com/NMY_Gliker-Semi-Bold.font)* and *[HK Modular](https://www.fontpath.com/?layout=grid&color=white&adjust=capital&sort=popular&size=100&spacing=0&name=&cat=170&text=&expand=T11882&page=2)* available for use on the *[Canva](https://www.canva.com/)* platform for the logo design.
 
+## Favicon
+
+* The Favicon was designed from the back of the card image, the image used when using *[Favicon & App Icon Generator](https://www.favicon-generator.org/)* was: 
+
+![Image from Logo used for Favicon](./assets/readme/backcardiconrm.jpg)
+
 ## Wireframes
 
 ### Landing Page
@@ -299,6 +305,10 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 ## Javascript Basics
 
 * Javascript Basics from *[JsChallenger.com](https://www.jschallenger.com/javascript-fundamentals/javascript-basics)*.
+
+## Favicon
+
+* Used to https://www.favicon-generator.org/ generate the favicon and *[W3 Schools HTML Favicon](https://www.w3schools.com/html/html_favicon.asp)* for the HTML.
 
 ## W3 School Responsive Web Design - Images
 
