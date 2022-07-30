@@ -286,7 +286,7 @@ The form displayed the message "Please fill out this field".
 
 ## Game Function Validation
 
-The WIN was tested so that when a user finishes the game successfully by matching all fruit pair, the game area should transform to a win screen with the the total flips and total time taken.
+The Win message was tested so that when a user finishes the game successfully by matching all fruit pairs, the game area should transform to a win screen with the the total flips and total time taken.
 
 **Test Steps:**
 
@@ -296,11 +296,11 @@ The WIN was tested so that when a user finishes the game successfully by matchin
 
 **Expected:**
 
-The game page should display You have won with the total flips and total time taken.
+The game page should display You have won with the total flips of 41 moves and total time 53 seconds.
 
 **Actual:**
 
-The game page displayed You have won with the total flips and total time taken.
+The game page displayed You have won with the total flips of 41 moves and total time of 53 seconds.
 
 ![Game Function test You win message](/assets/readme/wintestingrm.jpg)
 
