@@ -230,7 +230,7 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ### Jshint
 
-* Used Jshint to test Javacript, reults are showing no errors.
+* Used Jshint to test Javacript, results are showing no errors. In order to achieve no issues the validator needs to be configured to allow ES6 through the configuration options or adding the comment, "/* jshint esversion: 6 */" at the top of the Javascript paste/file.
 
 ![Jshint Results](./assets/readme/jshintrm.jpg)
 
