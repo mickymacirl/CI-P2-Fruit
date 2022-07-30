@@ -238,9 +238,13 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 * Used *[W3 HTML Validator](https://jigsaw.w3.org/css-validator/)* to validate HTML, results are showing no errors.
 
+![HTML Results](./assets/readme/htmlrm.jpg)
+
 ## CSS Validator Testing
 
 * Used *[W3 CSS Validator](https://jigsaw.w3.org/css-validator/)* to validate CSS, results are showing no errors.
+
+![CSS Results](./assets/readme/cssrm.jpg)
 
 ## Deployment
 
