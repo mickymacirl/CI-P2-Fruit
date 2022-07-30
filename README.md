@@ -9,7 +9,7 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 * The website has a fixed header with the Match 2 Logo aligned left and it is responsive on all device sizes.
 * This will be displayed throughout the website.
 
-![Header](/assets/images/largeicon_c.jpg)
+![Mock Up](./assets/readme/amiresprm.jpg)
 
 ## NavBar
 
@@ -444,7 +444,7 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
 ## Multi Device Website Mockup Generator
 
-* Used *[Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/index.php)* to create mutli-device mockup.
+* Used *[Am I Responsive](https://ui.dev/amiresponsive)* to create mutli-device mockup.
 
 ## Version Control
 
