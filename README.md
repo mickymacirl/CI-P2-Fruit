@@ -124,7 +124,7 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Favicon
 
-* The Favicon was designed from the back of the card image, the image used when using *[Favicon & App Icon Generator](https://www.favicon-generator.org/)* was: 
+* The Favicon was designed from the back of the card image, the image used when using *[Favicon & App Icon Generator](https://www.favicon-generator.org/)* was:
 
 ![Image from Logo used for Favicon](./assets/readme/backcardiconrm.jpg)
 
@@ -278,7 +278,7 @@ The form displayed the message "Please fill out this field".
 
 ### Javascript Validator Testing
 
-* Used Jshint to test Javacript, results are showing no errors. In order to achieve no issues the validator needs to be configured to allow ES6 through the configuration options or by adding the comment, "/* jshint esversion: 6 */" at the top of the Javascript paste/file.
+* Used Jshint to test Javacript, results are showing no errors. In order to achieve no issues the validator needs to be configured to allow ES6 through the configuration options or by adding the comment, "/*jshint esversion: 6*/" at the top of the Javascript paste/file.
 
 ![Jshint Results](./assets/readme/jshintrm.jpg)
 
