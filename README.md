@@ -238,7 +238,7 @@ The navigation links on the navbar on each page were used to do this and were su
 
 The Feedback form was tested so that when a user clicks on submit, the act directs to the confirm.html web page with a success message.
 
-Test Steps:
+**Test Steps:**
 
     Open the corresponding browser and open the Match 2 Fruit Game website.
     Navigate to the Feedback page using the Feedback link.
@@ -246,11 +246,11 @@ Test Steps:
     Click the Submit button.
     The user should be redirected to the confirm.html page with the success message being displayed.
 
-Expected:
+**Expected:**
 
 The user should be redirected to the confirm.html page with the success message being displayed.
 
-Actual:
+**Actual:**
 
 The website redirected the user to the confirm.html page with the success message being displayed.
 
@@ -258,17 +258,17 @@ The website redirected the user to the confirm.html page with the success messag
 
 The Feedback form was tested so that when a user tries to submit a blank form, the form should fail to submit with a "Please fill out this field" message.
 
-Test Steps:
+**Test Steps:**
 
     Open the corresponding browser and open the Match 2 Fruit Game website.
     Navigate to the Feedback page using the Feedback link.
     Click the Submit button.
 
-Expected:
+**Expected:**
 
 The form should display the message "Please fill out this field".
 
-Actual:
+**Actual:**
 
 The form displayed the message "Please fill out this field".
 
