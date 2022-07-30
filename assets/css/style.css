@@ -269,6 +269,11 @@ h1 {
     color: #282A3A;
 }
 
+/* Styling disabled start button color after click */
+.disabled {
+    color: #757575;
+}
+
 /* Styling Main */
 main {
     margin: 0 auto;
