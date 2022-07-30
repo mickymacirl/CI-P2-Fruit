@@ -250,6 +250,23 @@ Testing was done to make sure all navigation links led to the intended pages on 
 
 The navigation links on the navbar on each page were used to do this and were successful.
 
+## Footer Link Validation
+
+The footer was tested so that when a user clicks on the link for GitPod and Adobe Dreamweaver, the page should should open in a new browser window.
+
+**Test Steps:**
+
+    Open the corresponding browser and open the Match 2 Fruit Game website.
+    Click on the Gitpod and Adobe Dreamweaver links in the footer of the page.
+
+**Expected:**
+
+The link should open in a new window, to each of the websites.
+
+**Actual:**
+
+The link opened in a new window, to each of the websites.
+
 ## Form Testing
 
 ## Form Submit
