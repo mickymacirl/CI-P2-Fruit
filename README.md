@@ -226,6 +226,52 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Functional Testing
 
+Testing was done to make sure all navigation links led to the intended pages on their respective pages.
+
+## Navigation Links Testing
+
+The navigation links on the navbar on each page were used to do this and were successful.
+
+## Form Testing
+
+## Form Submit
+
+The Contact form was tested so that when a user clicks on submit, the act directs to the confirm.html web page with a success message.
+
+Test Steps:
+
+    Open the corresponding browser and open the Match 2 Fruit Game website.
+    Navigate to the Feedback page using the Feedback link.
+    Enter details in the First Name, Last Name, and the Subject fields.
+    Click the Submit button.
+    The user should be redirected to the confirm.html page with the success message being displayed.
+
+Expected:
+
+The user should be redirected to the confirm.html page with the success message being displayed.
+
+Actual:
+
+The website redirected the user to the confirm.html page with the success message being displayed.
+
+## Form Validation
+
+The Feedback form was tested so that when a user tries to submit a blank form, the form should fail to submit with a "Please fill out this field" message.
+
+Test Steps:
+
+    Open the corresponding browser and open the Match 2 Fruit Game website.
+    Navigate to the Feedback page using the Feedback link.
+    Click the Submit button.
+
+Expected:
+
+The form should display the message "Please fill out this field".
+
+Actual:
+
+The form displayed the message "Please fill out this field".
+
 ## Validator Testing
 
 ### Javascript Validator Testing
