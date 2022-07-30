@@ -228,9 +228,11 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Functional Testing
 
+## Navigation Links Testing
+
 Testing was done to make sure all navigation links led to the intended pages on their respective pages.
 
-## Navigation Links Testing
+![Navigation Link](/assets/readme/navlinkrm.jpg)
 
 The navigation links on the navbar on each page were used to do this and were successful.
 
