@@ -284,7 +284,7 @@ The form should display the message "Please fill out this field".
 
 The form displayed the message "Please fill out this field".
 
-![Form Testing](/assets/readme/feedbacktestingrm.jpg)
+![Form Testing](/assets/readme/feedbacktestrm.jpg)
 
 ## Game Function Validation
 
