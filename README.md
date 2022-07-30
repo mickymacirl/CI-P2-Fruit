@@ -224,7 +224,13 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ### Desktop Testing
 
+Desktop Lighthousing testing is showing a perfect score of 100 across the board.
+
+![Desktop Lighthouse Result](/assets/readme/mobilelhtrm.jpg)
+
 ### Mobile Testing
+
+![Mobile Lighthouse Result](/assets/readme/desktoplhtrm.jpg)
 
 ## Functional Testing
 
