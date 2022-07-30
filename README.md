@@ -236,7 +236,7 @@ The navigation links on the navbar on each page were used to do this and were su
 
 ## Form Submit
 
-The Contact form was tested so that when a user clicks on submit, the act directs to the confirm.html web page with a success message.
+The Feedback form was tested so that when a user clicks on submit, the act directs to the confirm.html web page with a success message.
 
 Test Steps:
 
