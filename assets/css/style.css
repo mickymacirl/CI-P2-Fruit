@@ -274,6 +274,12 @@ h1 {
     color: #757575;
 }
 
+/* Styling highlight of scores in win */
+
+.highlight {
+    color: #e0a026;
+}
+
 /* Styling Main */
 main {
     margin: 0 auto;
