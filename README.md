@@ -284,6 +284,26 @@ The form should display the message "Please fill out this field".
 
 The form displayed the message "Please fill out this field".
 
+## Game Function Validation
+
+The WIN was tested so that when a user finishes the game successfully by matching all fruit pair, the game area should transform to a win screen with the the total flips and total time taken.
+
+**Test Steps:**
+
+    Open the corresponding browser and open the Match 2 Fruit Game website.
+    Navigate to the Game page and match all fruit pairs to win the game.
+    Click the Submit button.
+
+**Expected:**
+
+The game page should display You have won with the total flips and total time taken.
+
+**Actual:**
+
+The game page displayed You have won with the total flips and total time taken.
+
+![Game Function test You win message](/assets/readme/wintestingrm.jpg)
+
 ## Validator Testing
 
 ### Javascript Validator Testing
