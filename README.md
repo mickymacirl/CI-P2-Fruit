@@ -299,8 +299,7 @@ The Favicon was tested so that when a user loads a page, the favicon should disp
 **Test Steps:**
 
     Open the corresponding browser and open the Match 2 Fruit Game website.
-    Confirm visually that the favicon is in place by checking the top bar of the browser
-    
+    Confirm visually that the favicon is in place by checking the top bar of the browser.
 
 **Expected:**
 
