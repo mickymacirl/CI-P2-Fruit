@@ -59,9 +59,11 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Game Board
 
-* The Main Game Board has a Start button with the amount of moves taken so far and the time since starting this turn, both displayed above the random grid of Cards.
+* The Main Game Board has a Start button, that disables with a grey color when the board is active, with the amount of moves taken so far and the time since either clicking on the start button or turning the first card, both displayed above the random grid of Cards.
 
-![Start, Moves and Time Readme](/assets/readme/startrm.jpg)
+![Start Button Active](/assets/readme/startrm.jpg)
+
+![Start Button Disabled](/assets/readme/startdisabledrm.jpg)
 
 * The Main Game Board (game.html) is a 4x4 set of cards which can be turned with a mouse click, clicking a second card to try find the fruit match. If unsuccessful, both unmatched turned cards revert back to being unturned.
 
