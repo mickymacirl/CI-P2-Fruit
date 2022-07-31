@@ -126,7 +126,7 @@ The game board cells and emoji placements should be random so as not to have rep
 
 **Actual:**
 
-The game board cells and emogi placements is random, has no repating or bunched together emoji.
+The game board cells and emoji placements is random, has no repeating or bunched together emoji.
 
 ![Board Random Test](/assets/readme/randomtestrm1.jpg)
 ### Win Message
