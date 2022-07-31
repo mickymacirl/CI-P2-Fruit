@@ -22,8 +22,8 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Footer
 
-* The website has a fixed footer which describes what programs the site was designed in, with a link to each that opens in a new page.
-* Users will be able to find additonal information about the programs used.
+* The website has a fixed footer which describes what programs the site was designed in, with a link to each that opens on a new page.
+* Users will be able to find additional information about the programs used.
 
 ![Footer Readme](./assets/readme/footerrm.jpg)
 
@@ -59,13 +59,13 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Game Board
 
-* The Main Game Board has a Start button, that disables with a grey color when the board is active, with the amount of moves taken so far and the time since either clicking on the start button or turning the first card, both displayed above the random grid of Cards.
+* The Main Game Board has a Start button, that disables with a grey color when the board is active, with the number of moves taken so far and the time since either clicking on the start button or turning the first card, both displayed above the random grid of Cards.
 
 ![Start Button Active](/assets/readme/startrm.jpg)
 
 ![Start Button Disabled](/assets/readme/startdisabledrm.jpg)
 
-* The Main Game Board (game.html) is a 4x4 set of cards which can be turned with a mouse click, clicking a second card to try find the fruit match. If unsuccessful, both unmatched turned cards revert back to being unturned.
+* The Main Game Board (game.html) is a 4x4 set of cards which can be turned with a mouse click, clicking a second card to try to find the fruit match. If unsuccessful, both unmatched turned cards revert to being unturned.
 
 ![Successful Match Two Fruit](/assets/readme/match2rm.jpg)
 
@@ -79,9 +79,9 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Design Choices
 
-## Fruit Emojis
+## Fruit Emoji
 
-* The following Emoji's were used to randomly fill main game board using the generateGame function:
+* The following Emoji were used to randomly fill the main game board using the generateGame function:
 
 | EMOJI       | Unicode Hex | HTML Dec Value |Image           |
 |-------------|-------------|----------------|----------------|
@@ -98,7 +98,7 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Back of Card Image
 
-* From the Site Logo, created a back of the card image to display card front before a card is flipped.
+* From the Site Logo, created a back of the card image to display the card front before a card is flipped.
 
 ![Card Back](/assets/readme/backcardrm.jpg)
 
@@ -177,7 +177,7 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 * As a user, I want instructions on how to play the game.
 * As a user, I want to enjoy the game.
 * As a user, I want to view how many moves I’ve made and the time it’s taken.
-* As a user, I want the option play the game again after one game ends.
+* As a user, I want the option to play the game again after one game ends.
 
 ## Site Owner Goals
 
@@ -188,7 +188,7 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## HTML
 
-* The struture of this website is using *[HTML](https://en.wikipedia.org/wiki/HTML)*.
+* The structure of this website is using *[HTML](https://en.wikipedia.org/wiki/HTML)*.
 
 ## CSS
 
@@ -212,7 +212,7 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Adobe Dreamweaver
 
-* The website tested and designed using *[Adobe Dreamweaver](https://www.adobe.com/products/dreamweaver.html)*.
+* The website was tested and designed using *[Adobe Dreamweaver](https://www.adobe.com/products/dreamweaver.html)*.
 
 ## Google Fonts
 
@@ -252,7 +252,7 @@ The navigation links on the navbar on each page were used to do this and were su
 
 ## Footer Link Validation
 
-The footer was tested so that when a user clicks on the link for GitPod and Adobe Dreamweaver, the page should should open in a new browser window.
+The footer was tested so that when a user clicks on the link for GitPod and Adobe Dreamweaver, the page should open in a new browser window.
 
 **Test Steps:**
 
@@ -277,7 +277,7 @@ The Feedback form was tested so that when a user clicks on submit, the act direc
 
     Open the corresponding browser and open the Match 2 Fruit Game website.
     Navigate to the Feedback page using the Feedback link.
-    Enter details in the First Name, Last Name, and the Subject fields.
+    Enter details in the First Name, Last Name, and Subject fields.
     Click the Submit button.
     The user should be redirected to the confirm.html page with the success message being displayed.
 
@@ -330,7 +330,7 @@ The web browser displayed the favicon for the page.
 
 ## Game Function Validation
 
-The Win message was tested so that when a user finishes the game successfully by matching all fruit pairs, the game area should transform to a win screen with the the total flips and total time taken.
+The Win message was tested so that when a user finishes the game successfully by matching all fruit pairs, the game area should transform to a win screen with the total flips and total time is taken.
 
 **Test Steps:**
 
@@ -340,11 +340,11 @@ The Win message was tested so that when a user finishes the game successfully by
 
 **Expected:**
 
-The game page should display You have won with the total flips of 41 moves and total time 53 seconds.
+The game page should display You have won with the total flips of 41 moves and a total time of 53 seconds.
 
 **Actual:**
 
-The game page displayed You have won with the total flips of 41 moves and total time of 53 seconds.
+The game page displayed You have won with a total flips of 41 moves and a total time of 53 seconds.
 
 ![Game Function test You win message](/assets/readme/wintestingrm.jpg)
 
@@ -352,7 +352,7 @@ The game page displayed You have won with the total flips of 41 moves and total 
 
 ### Javascript Validator Testing
 
-* Used Jshint to test Javacript, results are showing no errors. In order to achieve no issues the validator needs to be configured to allow ES6 through the configuration options or by adding the comment, "/*jshint esversion: 6*/" at the top of the Javascript paste/file.
+* Used Jshint to test Javacript, results are showing no errors. To achieve no issues the validator needs to be configured to allow ES6 through the configuration options or by adding the comment, "/*jshint esversion: 6*/" at the top of the Javascript paste/file.
 
 ![Jshint Results](./assets/readme/jshintrm.jpg)
 
@@ -394,7 +394,7 @@ Once **GitHub Pages** is set up, normal **GithHub** flow updates the live page.
 
 View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
-## Cone the 'CI-P2 Fruit Game' GitHub Code Respository locally
+## Cone the 'CI-P2 Fruit Game' GitHub Code Repository locally
 
 ## Credits
 
@@ -428,9 +428,9 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
 ## Grid Template Columns
 
-* Used *[Grid Template Columns](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns)* for reference for main game board.
+* Used *[Grid Template Columns](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns)* for reference for the main game board.
 
-* Used *[W3 School Grid Template Columns](https://www.w3schools.com/CSSref/pr_grid-template-columns.asp)* for reference and troubleshooting main game board.
+* Used *[W3 School Grid Template Columns](https://www.w3schools.com/CSSref/pr_grid-template-columns.asp)* for reference and troubleshooting the main game board.
 
 ## Fruit Emojis
 
@@ -462,11 +462,11 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
 ## Chrome Dev Tools
 
-* Used *[Chrome Dev tools](https://developers.google.com/web/tools)* to debug code and troubleshoot lay out and responsiveness.
+* Used *[Chrome Dev tools](https://developers.google.com/web/tools)* to debug code and troubleshoot layout and responsiveness.
 
 ## Media Genius
 
-* Used *[Media Genius](<https://responsivedesignchecker.com/>)* responsiveness website to troubleshoot lay out and responsiveness.
+* Used *[Media Genius](<https://responsivedesignchecker.com/>)* responsiveness website to troubleshoot layout and responsiveness.
 
 ## Git and GitHub
 
@@ -478,9 +478,9 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
 * Used *[GitPod Help Page](https://www.gitpod.io/support)* for reference.
 
-## Multi Device Website Mockup Generator
+## Multi-Device Website Mockup Generator
 
-* Used *[Am I Responsive](https://ui.dev/amiresponsive)* to create mutli-device mockup.
+* Used *[Am I Responsive](https://ui.dev/amiresponsive)* to create a mutli-device mockup.
 
 ## Version Control
 
