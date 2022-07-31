@@ -4,6 +4,8 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ![Mock Up](./assets/readme/amiresprm.jpg)
 
+View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
+
 ## Features of Website
 
 ## Header
@@ -257,7 +259,7 @@ Below are the steps required:
 
 Once **GitHub Pages** is set up, normal **GithHub** flow updates the live page.
 
-View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
+View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ## Forking Forking the Repository
 
