@@ -100,11 +100,11 @@ input[type=submit]:hover {
 
 /* Styling a behavior and color */
 a:link {
-    color: #225127;
+    color: #fcc700;
 }
 
 a:visited {
-    color: #fcc700;
+    color:#225127;
 }
 
 a:hover {
