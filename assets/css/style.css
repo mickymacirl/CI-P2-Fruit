@@ -117,7 +117,7 @@ a:active {
 
 /* Styling nav text */
 nav {
-    color: #fcc700;
+ /*   color: #fcc700; */
     text-decoration: none;
     padding: 7px 25px;
     display: inline-block;
