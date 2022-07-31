@@ -11,12 +11,12 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 * The website has a fixed header with the Match 2 Logo aligned left and it is responsive on all device sizes.
 * This will be displayed throughout the website.
 
+![Header Readme](./assets/readme/navbar700.jpg)
+
 ## NavBar
 
 * The navigation links to the Home and the Feedback page and it is responsive on all device sizes.
 * Users will be able to navigate between each page of the site, having consistent menu placement on the different screen sizes.
-
-![Navbar Readme](./assets/readme/navbar700.jpg)
 
 ![Navbar Readme Responsive](./assets/readme/navbar320.jpg)
 
