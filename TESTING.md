@@ -21,7 +21,7 @@ The website is responsive on all sizes and no pixelation is accruing. No overlap
 
 **Actual:**
 
-The website behaved as expected, with an initial issue with the center of text in all pages on a screen size of 320px, and WAVE warnings for small text. Media Query code was added to assit with the look and feel of the website at different screen sizes. Some miss aligned text when in landscape mode. Issue with the CSS transform effect in Safari browser. Issue is listed in the Bugs section.
+The website behaved as expected, with an initial issue with the center of text in all pages on a screen size of 320px, and WAVE warnings for small text. Media Query code was added to assist with the look and feel of the website at different screen sizes. Some miss aligned text when in landscape mode. Issue with the CSS transform effect in Safari browser. Issue is listed in the Bugs section.
 
 The website was tested on the following physical devices, with no resizing issues seen:
 
@@ -165,8 +165,8 @@ The game board was tested to ensure that the 10 different Fruit Emoji are random
 
 1. Open the corresponding browser and open the Match 2 Fruit Game website.
 2. Navigate to the Game page and open the Dev Tools of the corresponding browser.
-3. Select the first card-front div generated cell, and hide the css styling.
-4. Select the first card-back div generated cell, and hide the css styling.
+3. Select the first card-front div generated cell, and hide the CSS styling.
+4. Select the first card-back div generated cell, and hide the CSS styling.
 5. Expand all div card, div card-front and card-back cells and check for randomness.
 6. Reload the page and carry out steps 2 to 5 repeating 5 times to check for randomness.
 
@@ -230,11 +230,11 @@ The game cards should flip back when a fruit match is unsuccessful.
 
 **Expected:**
 
-The two unmatched fruit cards should flip back to unflipped.
+The two unmatched fruit cards should flip back to not turned.
 
 **Actual:**
 
-The two unmatched fruit cards fliped back to unflipped.
+The two unmatched fruit cards flipped back to not turned.
 
 ![Fruit Match False 1](/assets/readme/unsuccmatchrm.jpg)
 
@@ -258,7 +258,7 @@ The game page should display You have won with the total flips of 41 moves and a
 
 **Actual:**
 
-The game page displayed You have won with a total flips of 41 moves and a total time of 53 seconds.
+The game page displayed You have won with a total flip of 41 moves and a total time of 53 seconds.
 
 ![Game Function test You win message](/assets/readme/wintestingrm.jpg)
 
