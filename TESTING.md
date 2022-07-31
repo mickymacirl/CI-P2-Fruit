@@ -166,6 +166,8 @@ The two matched fruit cards should stay flipped.
 
 The two matched fruit card stayed flipped.
 
+![Fruit Match True](/assets/readme/succmatchrm.jpg)
+
 ### Fruit Match False
 
 The game cards should flip back when a fruit match is unsuccessful.
@@ -183,6 +185,12 @@ The two unmatched fruit cards should flip back to unflipped.
 **Actual:**
 
 The two unmatched fruit cards fliped back to unflipped.
+
+![Fruit Match False](/assets/readme/unsuccmatchrm.jpg)
+
+![Fruit Match False](/assets/readme/unsuccmatchrm1.jpg)
+
+![Fruit Match False](/assets/readme/unsuccmatchrm2.jpg)
 
 ### Win Message
 
