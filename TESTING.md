@@ -34,8 +34,8 @@ The footer was tested so that when a user clicks on the link for GitPod and Adob
 
 **Test Steps:**
 
-    Open the corresponding browser and open the Match 2 Fruit Game website.
-    Click on the Gitpod and Adobe Dreamweaver links in the footer of the page.
+    1. Open the corresponding browser and open the Match 2 Fruit Game website.
+    2. Click on the Gitpod and Adobe Dreamweaver links in the footer of the page.
 
 **Expected:**
 
@@ -53,11 +53,10 @@ The Feedback form was tested so that when a user clicks on submit, the act direc
 
 **Test Steps:**
 
-    Open the corresponding browser and open the Match 2 Fruit Game website.
-    Navigate to the Feedback page using the Feedback link.
-    Enter details in the First Name, Last Name, and Subject fields.
-    Click the Submit button.
-    The user should be redirected to the confirm.html page with the success message being displayed.
+    1. Open the corresponding browser and open the Match 2 Fruit Game website.
+    2. Navigate to the Feedback page using the Feedback link.
+    3. Enter details in the First Name, Last Name, and Subject fields.
+    4. Click the Submit button.
 
 **Expected:**
 
@@ -73,9 +72,9 @@ The Feedback form was tested so that when a user tries to submit a blank form, t
 
 **Test Steps:**
 
-    Open the corresponding browser and open the Match 2 Fruit Game website.
-    Navigate to the Feedback page using the Feedback link.
-    Click the Submit button.
+    1. Open the corresponding browser and open the Match 2 Fruit Game website.
+    2. Navigate to the Feedback page using the Feedback link.
+    3. Click the Submit button.
 
 **Expected:**
 
@@ -93,8 +92,8 @@ The Favicon was tested so that when a user loads a page, the favicon should disp
 
 **Test Steps:**
 
-    Open the corresponding browser and open the Match 2 Fruit Game website.
-    Confirm visually that the favicon is in place by checking the top bar of the browser.
+    1. Open the corresponding browser and open the Match 2 Fruit Game website.
+    2. Confirm visually that the favicon is in place by checking the top bar of the browser.
 
 **Expected:**
 
@@ -112,9 +111,9 @@ The Win message was tested so that when a user finishes the game successfully by
 
 **Test Steps:**
 
-    Open the corresponding browser and open the Match 2 Fruit Game website.
-    Navigate to the Game page and match all fruit pairs to win the game.
-    Click the Submit button.
+    1. Open the corresponding browser and open the Match 2 Fruit Game website.
+    2. Navigate to the Game page and match all fruit pairs to win the game.
+    3. Click the Submit button.
 
 **Expected:**
 
