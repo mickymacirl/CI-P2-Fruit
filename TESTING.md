@@ -118,7 +118,7 @@ The game board was tested to ensure that the 10 different Fruit Emoji are random
     3. Select the first card-front div generated cell, and hide the css styling.
     4. Select the first card-back div generated cell, and hide the css styling.
     5. Expand all div card, div card-front and card-back cells and check for randomness.
-    6. Reload the page and carry out steps 2 to 5 repeating 10 times to check for randomness.
+    6. Reload the page and carry out steps 2 to 5 repeating 5 times to check for randomness.
 
 **Expected:**
 
@@ -128,7 +128,26 @@ The game board cells and emoji placements should be random so as not to have rep
 
 The game board cells and emoji placements is random, has no repeating or bunched together emoji.
 
-![Board Random Test](/assets/readme/randomtestrm1.jpg)
+#### Board Random Testing 1
+
+![Board Random Test 1](/assets/readme/randomtestrm1.jpg)
+
+#### Board Random Testing 2
+
+![Board Random Test 2](/assets/readme/randomtestrm2.jpg)
+
+#### Board Random Testing 3
+
+![Board Random Test 3](/assets/readme/randomtestrm3.jpg)
+
+#### Board Random Testing 4
+
+![Board Random Test 4](/assets/readme/randomtestrm4.jpg)
+
+#### Board Random Testing 5
+
+![Board Random Test 5](/assets/readme/randomtestrm5.jpg)
+
 ### Win Message
 
 The Win Message was tested so that when a user finishes the game successfully by matching all fruit pairs, the game area should transform to a win screen with the total flips and total time is taken.
