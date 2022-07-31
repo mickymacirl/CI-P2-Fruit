@@ -148,6 +148,42 @@ The game board cells and emoji placement is random, has no repeating or bunched 
 
 ![Board Random Test 5](/assets/readme/randomtestrm5.jpg)
 
+### Fruit Match True
+
+The game cards should stay turned when a fruit match is made successfully.
+
+**Test Steps:**
+
+    1. Open the corresponding browser and open the Match 2 Fruit Game website.
+    2. Navigate to the Game page and choose a card.
+    3. Continue the game until a match is made.
+
+**Expected:**
+
+The two matched fruit cards should stay flipped.
+
+**Actual:**
+
+The two matched fruit card stayed flipped.
+
+### Fruit Match False
+
+The game cards should flip back when a fruit match is unsuccessful.
+
+**Test Steps:**
+
+    1. Open the corresponding browser and open the Match 2 Fruit Game website.
+    2. Navigate to the Game page and choose a card.
+    3. Choose a card that does not match the already turned card.
+
+**Expected:**
+
+The two unmatched fruit cards should flip back to unflipped.
+
+**Actual:**
+
+The two unmatched fruit cards fliped back to unflipped.
+
 ### Win Message
 
 The Win Message was tested so that when a user finishes the game successfully by matching all fruit pairs, the game area should transform to a win screen with the total flips and total time is taken.
