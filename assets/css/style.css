@@ -125,6 +125,7 @@ nav {
 
 /* Styling nav a text */
 nav a {
+    color: #fcc700;
     text-decoration: none;
     padding: 0px 0px;
     display: inline-block;
