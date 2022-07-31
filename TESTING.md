@@ -150,7 +150,7 @@ The game board cells and emoji placement is random, has no repeating or bunched 
 
 ### Fruit Match True
 
-The game cards should stay turned when a fruit match is made successfully.
+The game cards should stay turned when a fruit match is successful.
 
 **Test Steps:**
 
