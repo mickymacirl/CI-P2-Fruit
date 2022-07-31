@@ -332,7 +332,7 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
 ## GitLens 12
 
-* Used *[GitLens 12](https://open-vsx.org/extension/DavidAnson/vscode-markdownlint)* extension in Visual Studio to help over all Git management.
+* Used *[GitLens 12](https://open-vsx.org/extension/eamodio/gitlens)* extension in Visual Studio to help over all Git management.
 
 ## Git and GitHub
 
