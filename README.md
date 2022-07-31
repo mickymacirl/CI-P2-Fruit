@@ -246,13 +246,40 @@ The following commands were used to push code to the remote repository:
 
 ## Deployment to GitHub Pages
 
+The site was deployed to GitHub Pages.
+
+Below are the steps required:
+
+1. In GitHub, navigate to your username.github.io repository and click Settings.
+2. Within Settings, navigate to the Source section within the GitHub Pages section. From the dropdown menu, select master branch and then click Save.
+
 ## Deploying New Changes
 
 Once **GitHub Pages** is set up, normal **GithHub** flow updates the live page.
 
 View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
-## Cone the 'CI-P2 Fruit Game' GitHub Code Repository locally
+## Forking Forking the Repository
+
+Forking creates a copy of the repository in order to view and/or make changes without affecting the original.
+
+Below are the steps required:
+
+1. In GitHub, access the specific GitHub Repository - *[Match 2 Fruit Game](https://github.com/mickymacirl/CI-P2-Fruit)*
+2. Towards the top right of the repository page, underneath the user icon you will find and click the "Fork" Button.
+3. You will have successfully created a copy of the original repository within the logged in GitHub account.
+
+## Clone the 'CI-P2 Fruit Game' GitHub Code Repository locally
+
+1. Go to the page of the repository that you want to clone
+2. Click on “Code” menu and copy the URL.
+
+![Clone Repository](/assets/readme/clonerm.jpg)
+
+![Clone Repository Copied](/assets/readme/copiedrm.jpg)
+
+1. Use the git clone command along with the copied URL.
+2. git clone https://github.com/USERNAME/REPOSITORY
 
 ## Credits
 
