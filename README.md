@@ -271,15 +271,14 @@ Below are the steps required:
 
 ## Clone the 'CI-P2 Fruit Game' GitHub Code Repository locally
 
-1. Go to the page of the repository that you want to clone
+1. Go to the page of the repository that you want to clone.
 2. Click on “Code” menu and copy the URL.
+3. Use the git clone command along with the copied URL.
+4. git clone <https://github.com/USERNAME/REPOSITORY>
 
 ![Clone Repository](/assets/readme/clonerm.jpg)
 
 ![Clone Repository Copied](/assets/readme/copiedrm.jpg)
-
-1. Use the git clone command along with the copied URL.
-2. git clone https://github.com/USERNAME/REPOSITORY
 
 ## Credits
 
