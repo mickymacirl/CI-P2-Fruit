@@ -230,4 +230,4 @@ The game page displayed You have won with a total flips of 41 moves and a total 
 
 * Used *[W3 CSS Validator](https://jigsaw.w3.org/css-validator/)* to validate CSS, results are showing no errors.
 
-![CSS Results](./assets/readme/cssrm.jpg)
+![CSS Results](/assets/readme/cssvalrm.jpg)
