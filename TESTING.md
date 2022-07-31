@@ -34,8 +34,8 @@ The footer was tested so that when a user clicks on the link for GitPod and Adob
 
 **Test Steps:**
 
-    1. Open the corresponding browser and open the Match 2 Fruit Game website.
-    2. Click on the Gitpod and Adobe Dreamweaver links in the footer of the page.
+1. Open the corresponding browser and open the Match 2 Fruit Game website.
+2. Click on the Gitpod and Adobe Dreamweaver links in the footer of the page.
 
 **Expected:**
 
@@ -53,10 +53,10 @@ The Feedback form was tested so that when a user clicks on submit, the act direc
 
 **Test Steps:**
 
-    1. Open the corresponding browser and open the Match 2 Fruit Game website.
-    2. Navigate to the Feedback page using the Feedback link.
-    3. Enter details in the First Name, Last Name, and Subject fields.
-    4. Click the Submit button.
+1. Open the corresponding browser and open the Match 2 Fruit Game website.
+2. Navigate to the Feedback page using the Feedback link.
+3. Enter details in the First Name, Last Name, and Subject fields.
+4. Click the Submit button.
 
 **Expected:**
 
@@ -72,9 +72,9 @@ The Feedback form was tested so that when a user tries to submit a blank form, t
 
 **Test Steps:**
 
-    1. Open the corresponding browser and open the Match 2 Fruit Game website.
-    2. Navigate to the Feedback page using the Feedback link.
-    3. Click the Submit button.
+1. Open the corresponding browser and open the Match 2 Fruit Game website.
+2. Navigate to the Feedback page using the Feedback link.
+3. Click the Submit button.
 
 **Expected:**
 
@@ -92,8 +92,8 @@ The Favicon was tested so that when a user loads a page, the favicon should disp
 
 **Test Steps:**
 
-    1. Open the corresponding browser and open the Match 2 Fruit Game website.
-    2. Confirm visually that the favicon is in place by checking the top bar of the browser.
+1. Open the corresponding browser and open the Match 2 Fruit Game website.
+2. Confirm visually that the favicon is in place by checking the top bar of the browser.
 
 **Expected:**
 
@@ -113,12 +113,12 @@ The game board was tested to ensure that the 10 different Fruit Emoji are random
 
 **Test Steps:**
 
-    1. Open the corresponding browser and open the Match 2 Fruit Game website.
-    2. Navigate to the Game page and open the Dev Tools of the corresponding browser.
-    3. Select the first card-front div generated cell, and hide the css styling.
-    4. Select the first card-back div generated cell, and hide the css styling.
-    5. Expand all div card, div card-front and card-back cells and check for randomness.
-    6. Reload the page and carry out steps 2 to 5 repeating 5 times to check for randomness.
+1. Open the corresponding browser and open the Match 2 Fruit Game website.
+2. Navigate to the Game page and open the Dev Tools of the corresponding browser.
+3. Select the first card-front div generated cell, and hide the css styling.
+4. Select the first card-back div generated cell, and hide the css styling.
+5. Expand all div card, div card-front and card-back cells and check for randomness.
+6. Reload the page and carry out steps 2 to 5 repeating 5 times to check for randomness.
 
 **Expected:**
 
@@ -154,9 +154,9 @@ The game cards should stay turned when a fruit match is successful.
 
 **Test Steps:**
 
-    1. Open the corresponding browser and open the Match 2 Fruit Game website.
-    2. Navigate to the Game page and choose a card.
-    3. Continue the game until a match is made.
+1. Open the corresponding browser and open the Match 2 Fruit Game website.
+2. Navigate to the Game page and choose a card.
+3. Continue the game until a match is made.
 
 **Expected:**
 
@@ -174,9 +174,9 @@ The game cards should flip back when a fruit match is unsuccessful.
 
 **Test Steps:**
 
-    1. Open the corresponding browser and open the Match 2 Fruit Game website.
-    2. Navigate to the Game page and choose a card.
-    3. Choose a card that does not match the already turned card.
+1. Open the corresponding browser and open the Match 2 Fruit Game website.
+2. Navigate to the Game page and choose a card.
+3. Choose a card that does not match the already turned card.
 
 **Expected:**
 
@@ -198,9 +198,9 @@ The Win Message was tested so that when a user finishes the game successfully by
 
 **Test Steps:**
 
-    1. Open the corresponding browser and open the Match 2 Fruit Game website.
-    2. Navigate to the Game page and match all fruit pairs to win the game.
-    3. Click the Submit button.
+1. Open the corresponding browser and open the Match 2 Fruit Game website.
+2. Navigate to the Game page and match all fruit pairs to win the game.
+3. Click the Submit button.
 
 **Expected:**
 
