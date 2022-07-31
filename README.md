@@ -136,31 +136,31 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Wireframes
 
-### Landing Page
+### Landing Page Wireframe
 
 ![Index Page 320](/assets/readme/IPWF320.jpg)
 
 ![Index Page 700](/assets/readme/IPWF700.jpg)
 
-### Game Page
+### Game Page Wireframe
 
 ![Game Page 320](/assets/readme/GPWF320.jpg)
 
 ![Game Page 700](/assets/readme/GPWF700.jpg)
 
-### Feedback Page
+### Feedback Page Wireframe
 
 ![Feedback Page 320](/assets/readme/FPWF320.jpg)
 
 ![Feedback Page 700](/assets/readme/FPWF700.jpg)
 
-### Confirm Page
+### Confirm Page Wireframe
 
 ![Confirm Page 320](/assets/readme/CPWF320.jpg)
 
 ![Confirm Page 700](/assets/readme/CPWF700.jpg)
 
-### 404 Page
+### 404 Page Wireframe
 
 ![404 Page 320](/assets/readme/404WF320.jpg)
 
@@ -440,7 +440,7 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
 * Javascript Basics from *[JsChallenger.com](https://www.jschallenger.com/javascript-fundamentals/javascript-basics)*.
 
-## Favicon
+## Favicon Generator
 
 * Used *[Favicon & App Icon Generator](https://www.favicon-generator.org/)* to generate the favicon and *[W3 Schools HTML Favicon](https://www.w3schools.com/html/html_favicon.asp)* for the HTML.
 
@@ -482,7 +482,7 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
 * Used *[Am I Responsive](https://ui.dev/amiresponsive)* to create a mutli-device mockup.
 
-## Version Control
+## Version Control Reference
 
 * Used Our Coding Club *[GitHub.io](https://ourcodingclub.github.io/tutorials/git/)* How To's for reference.
 
