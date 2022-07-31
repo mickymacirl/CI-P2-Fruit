@@ -328,7 +328,7 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
 ## markdownlint
 
-* Used *[MarkdownLint](https://open-vsx.org/extension/DavidAnson/vscode-markdownlint)* extension in Visual Studio to troubleshoot mark down errors.
+* Used *[MarkdownLint](https://open-vsx.org/extension/DavidAnson/vscode-markdownlint)* extension in Visual Studio to troubleshoot markdown errors in readme's.
 
 ## Git and GitHub
 
