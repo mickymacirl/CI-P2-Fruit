@@ -458,7 +458,7 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
 ## Unicorn Revealer
 
-* Used *[Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB)* to troubleshoot lay out and responsiveness.
+* Used *[Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB)* to troubleshoot layout and responsiveness.
 
 ## Chrome Dev Tools
 
