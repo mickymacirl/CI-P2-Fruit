@@ -107,7 +107,31 @@ The web browser displayed the favicon for the page.
 
 ## Game Function Validation
 
-The Win message was tested so that when a user finishes the game successfully by matching all fruit pairs, the game area should transform to a win screen with the total flips and total time is taken.
+### Random Fruit Placement in the Main Game board
+
+The game board was tested to ensure that the 10 different Fruit Emoji are randomly placed while being generated.
+
+**Test Steps:**
+
+    1. Open the corresponding browser and open the Match 2 Fruit Game website.
+    2. Navigate to the Game page and open the Dev Tools of the corresponding browser.
+    3. Select the first card-front div generated cell, and hide the css styling.
+    4. Select the first card-back div generated cell, and hide the css styling.
+    5. Expand all div card, div card-front and card-back cells and check for randomness.
+    6. Reload the page and carry out steps 2 to 5 repeating 10 times to check for randomness.
+
+**Expected:**
+
+The game board cells and emoji placements should be random so as not to have repeating or bunched together emoji.
+
+**Actual:**
+
+The game board cells and emogi placements is random, has no repating or bunched together emoji.
+
+![Board Random Test](/assets/readme/randomtestrm1.jpg)
+### Win Message
+
+The Win Message was tested so that when a user finishes the game successfully by matching all fruit pairs, the game area should transform to a win screen with the total flips and total time is taken.
 
 **Test Steps:**
 
