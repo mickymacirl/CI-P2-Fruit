@@ -52,15 +52,13 @@ img {
 
 /* Styling the navbar */
 .navbar {
-    display: flex;
-    background-color: #b29e84;
     text-decoration: none;
     text-align: left;
   }
   
   /* Styling the navbar a href links */
   .navbar a {
-    color: #253439;
+    color: #fcc700;
     padding: 10px 10px;
     text-decoration: none;
     text-align: left;
