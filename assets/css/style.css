@@ -104,7 +104,7 @@ a:link {
 }
 
 a:visited {
-    color:#225127;
+    color:#fcc700;
 }
 
 a:hover {
@@ -112,7 +112,7 @@ a:hover {
 }
 
 a:active {
-    color: #225127;
+    color: #fcc700;
 }
 
 /* Styling nav text */
