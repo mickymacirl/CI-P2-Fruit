@@ -50,6 +50,28 @@ img {
     bottom: 0;
 }
 
+/* Styling the navbar */
+.navbar {
+    display: flex;
+    background-color: #b29e84;
+    text-decoration: none;
+    text-align: left;
+  }
+  
+  /* Styling the navbar a href links */
+  .navbar a {
+    color: #253439;
+    padding: 10px 10px;
+    text-decoration: none;
+    text-align: left;
+  }
+  
+  /* Styling the navbar hover over color */
+  .navbar a:hover {
+    background-color: #253439;
+    color: #b29e84;
+  }
+
 /* Styling h/f container */
 .container {
     width: 100%;
