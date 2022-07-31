@@ -330,6 +330,10 @@ View the live site: *[here](https://github.com/mickymacirl/CI-P2-Fruit/)*
 
 * Used *[MarkdownLint](https://open-vsx.org/extension/DavidAnson/vscode-markdownlint)* extension in Visual Studio to troubleshoot markdown errors in readme's.
 
+## GitLens 12
+
+* Used *[GitLens 12](https://open-vsx.org/extension/DavidAnson/vscode-markdownlint)* extension in Visual Studio to help over all Git management.
+
 ## Git and GitHub
 
 * Used *[W3C Git Tutorial](https://www.w3schools.com/git/default.asp?remote=github)* for reference.
