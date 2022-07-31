@@ -224,7 +224,7 @@ The game page displayed You have won with a total flips of 41 moves and a total 
 
 * Used *[W3 HTML Validator](https://jigsaw.w3.org/css-validator/)* to validate HTML, results are showing no errors.
 
-![HTML Results](./assets/readme/htmlrm.jpg)
+![HTML Results](/assets/readme/htmlvalrm.jpg)
 
 ## CSS Validator Testing
 
