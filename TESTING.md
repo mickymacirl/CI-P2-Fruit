@@ -194,7 +194,7 @@ The two unmatched fruit cards fliped back to unflipped.
 
 ### Win Message
 
-The Win Message was tested so that when a user finishes the game successfully by matching all fruit pairs, the game area should transform to a win screen with the total flips and total time is taken.
+The Win Message was tested so that when a user finishes the game successfully by matching all fruit pairs, the game area should transform to a win screen with the total flips and total time its taken.
 
 **Test Steps:**
 
