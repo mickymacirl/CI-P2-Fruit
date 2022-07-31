@@ -44,7 +44,7 @@ const pickRandom = (array, items) => {
 
     for (let index = 0; index < items; index++) {
         const randomIndex = Math.floor(Math.random() * clonedArray.length);
-        
+
         randomPicks.push(clonedArray[randomIndex]);
         clonedArray.splice(randomIndex, 1);
     }
@@ -62,7 +62,7 @@ const generateGame = () => {
     }
 
     const emojis = ['&#127815', '&#127820', '&#127827', '&#127823', '&#127821', '&#127818', '&#129381', '&#127813', '&#129389', '&#127826'];
-    const picks = pickRandom(emojis, (dimensions * dimensions) / 2); 
+    const picks = pickRandom(emojis, (dimensions * dimensions) / 2);
     const items = shuffle([...picks, ...picks]);
     const cards = `
         <div class="board" style="grid-template-columns: repeat(${dimensions}, auto)">
@@ -74,7 +74,7 @@ const generateGame = () => {
             `).join('')}
        </div>
     `;
-    
+
     const parser = new DOMParser().parseFromString(cards, 'text/html');
 
     selectors.board.replaceWith(parser.querySelector('.board'));
