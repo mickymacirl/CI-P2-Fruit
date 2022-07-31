@@ -2,6 +2,50 @@
 
 * Link to ReadMe can be found at the *[ReadMe](/README.md)* link.
 
+## Responsiveness
+
+Pages were tested on various different screen sizes from 320px on a Samsung fold 2, Samsung Galaxy Tab, Nexus 7 and a wide screen Windows machine. The website hides all content at 300px or below due to the size of the randomly generated main game board.
+
+Pages were tested on most modern browsers including Microsoft Edge, Chrome, Firefox, Opera and Brave.
+
+**Test Steps:**
+
+1. Open the corresponding browser and open Match 2 Fruit Game website.
+2. Open the browser development tools by hitting the corresponding dev tools shortcut.
+3. Resize to the desired width.
+4. Click and drag the browser window to lower or higher window size.
+
+**Expected:**
+
+The website is responsive on all sizes and no pixelation is accruing. No overlap of text or images.
+
+**Actual:**
+
+The website behaved as expected, with an initial issue with the center of text in all pages on a screen size of 320px, and WAVE warnings for small text. Media Query code was added to assit with the look and feel of the website at different screen sizes. Some miss aligned text when in landscape mode. Issue with the CSS transform effect in Safari browser. Issue is listed in the Bugs section.
+
+The website was tested on the following physical devices, with no resizing issues seen:
+
+* Samsung fold 2
+* Samsung Galaxy Tab
+* Nexus 7 with Kali Linux
+* Widescreen 4k monitor
+
+The website was tested on the following screen sizes using *[Chrome Dev tools](https://developers.google.com/web/tools)*, *[Media Genius](<https://responsivedesignchecker.com/>)* and *[Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB)*:
+
+* iPhone SE
+* iPhone XR
+* iPhone 12 PRO
+* Pixel 5
+* Samsung Galaxy S8+
+* Samsung Galaxy S20 Ultra
+* iPad Air
+* iPad Mini
+* Surface Pro 7
+* Surface Duo
+* Samsung Galaxy A51/71
+* Nest Hub
+* Nest Hub Max
+
 ## Accessibility
 
 WAVE Web Accessibility Evaluation Tool was used to test each page, with one alert related to Titles.
