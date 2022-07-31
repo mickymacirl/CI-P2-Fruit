@@ -186,11 +186,11 @@ The two unmatched fruit cards should flip back to unflipped.
 
 The two unmatched fruit cards fliped back to unflipped.
 
-![Fruit Match False](/assets/readme/unsuccmatchrm.jpg)
+![Fruit Match False 1](/assets/readme/unsuccmatchrm.jpg)
 
-![Fruit Match False](/assets/readme/unsuccmatchrm1.jpg)
+![Fruit Match False 2](/assets/readme/unsuccmatchrm1.jpg)
 
-![Fruit Match False](/assets/readme/unsuccmatchrm2.jpg)
+![Fruit Match False 3](/assets/readme/unsuccmatchrm2.jpg)
 
 ### Win Message
 
