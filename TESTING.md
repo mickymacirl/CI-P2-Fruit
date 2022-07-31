@@ -1,6 +1,6 @@
 # Testing
 
-* Link to ReadMe can be found at the *[ReadMe Link](/README.md)*
+* Link to ReadMe can be found at the *[ReadMe](/README.md)* link.
 
 ## Accessibility
 

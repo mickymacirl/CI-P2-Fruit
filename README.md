@@ -224,7 +224,7 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 ## Testing
 
-* Link to Testing ReadMe can be found at the *[Testing ReadMe Link](/TESTING.md)*
+* Link to Testing ReadMe can be found at the *[Testing ReadMe](/TESTING.md)* link.
 
 ## Deployment
 
