@@ -126,7 +126,7 @@ nav {
 /* Styling nav a text */
 nav a {
     text-decoration: none;
-    padding: 7px 25px;
+    padding: 0px 0px;
     display: inline-block;
 }
 
