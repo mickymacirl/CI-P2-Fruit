@@ -1,5 +1,7 @@
 # Testing
 
+* Link to ReadMe can be found at the *[ReadMe Link](/README.md)*
+
 ## Accessibility
 
 ## Lighthouse Testing
