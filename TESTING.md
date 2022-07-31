@@ -4,6 +4,12 @@
 
 ## Accessibility
 
+WAVE Web Accessibility Evaluation Tool was used to test each page, with one alert related to Titles.
+
+![WAVE Result Index](/assets/readme/waveresultindexrm.jpg)
+
+![WAVE Result Game](/assets/readme/waveresultgamerm.jpg)
+
 ## Lighthouse Testing
 
 ### Desktop Testing
