@@ -117,7 +117,7 @@ a:active {
 
 /* Styling nav text */
 nav {
-    color: #fff;
+    color: #fcc700;
     text-decoration: none;
     padding: 7px 25px;
     display: inline-block;
@@ -126,7 +126,7 @@ nav {
 /* Styling nav a text */
 nav a {
     text-decoration: none;
-    padding: 0px 0px;
+    padding: 7px 25px;
     display: inline-block;
 }
 
