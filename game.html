@@ -17,7 +17,12 @@
     <script src="./assets/js/script.js" defer></script>
 </head>
 
+<!-- Body -->
+
 <body>
+
+    <!-- Header -->
+
     <header>
         <div class="fixed-header">
             <div class="container">
@@ -29,28 +34,34 @@
             </div>
         </div>
     </header>
+
+    <!-- Main Section -->
+
     <main>
         <div class="main1">
-        <div class="game">
-            <div class="controls">
-                <button>Start</button>
-                <div class="stats">
-                    <div class="moves">0 moves</div>
-                    <div class="timer">time: 0 sec</div>
+            <div class="game">
+                <div class="controls">
+                    <button>Start</button>
+                    <div class="stats">
+                        <div class="moves">0 moves</div>
+                        <div class="timer">time: 0 sec</div>
+                    </div>
+                </div>
+                <div class="board-container">
+                    <div class="board" data-dimension="4"></div>
+                    <div class="win">You won!</div>
+                </div>
+                <div class="container">
+                    <button onclick='window.location.assign("index.html")'>
+                        Play Again
+                    </button>
                 </div>
             </div>
-            <div class="board-container">
-                <div class="board" data-dimension="4"></div>
-                <div class="win">You won!</div>
-            </div>
-            <div class="container">
-                <button onclick='window.location.assign("index.html")'>
-                    Play Again
-                </button>
-            </div>
-        </div>
         </div>
     </main>
+
+    <!-- Footer -->
+
     <footer>
         <div class="fixed-footer">
             <div class="container">Created using <a href="https://www.gitpod.io/" target="_blank" rel="noopener"
