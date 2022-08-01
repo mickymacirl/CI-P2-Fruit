@@ -23,21 +23,6 @@ body {
     padding-bottom: 40px;
 }
 
-/* No JS styling message */
-no-js {
-    position: absolute;
-    top: 20%;
-    left: 50%;
-    text-align: center;
-    width: 60%;
-    position: fixed;
-    top: 30%;
-    left: 20%;
-    border: 3px solid #225127;
-    padding: 10px;
-    font-size: 16px;
-}
-
 /* Style Logo through img */
 img {
     width: 30%;
@@ -158,6 +143,21 @@ nav a {
 
 /* Styling normal html pages */
 .normalpage {
+    text-align: center;
+    width: 60%;
+    position: fixed;
+    top: 30%;
+    left: 20%;
+    border: 3px solid #225127;
+    padding: 10px;
+    font-size: 16px;
+}
+
+/* No JS styling message */
+.main2 {
+    position: absolute;
+    top: 20%;
+    left: 50%;
     text-align: center;
     width: 60%;
     position: fixed;
