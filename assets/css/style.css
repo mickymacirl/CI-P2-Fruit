@@ -133,7 +133,7 @@ nav a {
 
 /* Styling and position main page and game board */
 .game,
-main {
+.main1 {
     position: absolute;
     top: 5%;
     left: 50%;
@@ -336,7 +336,7 @@ main {
     }
 
     .game,
-    main {
+    .main1 {
         position: absolute;
         top: 5%;
         left: 50%;
