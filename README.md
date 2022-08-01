@@ -49,7 +49,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ## Confirm Page
 
-* The feedback from is using the *[Code Institute Form Dump](https://formdump.codeinstitute.net/)* to validate the form.
+* The feedback form is using the *[Code Institute Form Dump](https://formdump.codeinstitute.net/)* to validate the form.
 
 * Access the Confim.html page: *[here](confirm.html)*
 
