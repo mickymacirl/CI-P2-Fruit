@@ -244,7 +244,7 @@ The two unmatched fruit cards flipped back to not turned.
 
 ### Disable JavaScript
 
-The game.html page should show as message when Javascript is disabled.
+The game.html page should show a message when Javascript is disabled.
 
 **Test Steps:**
 
