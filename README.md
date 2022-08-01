@@ -50,7 +50,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
     - [Version Control](#version-control)
     - [Deployment to GitHub Pages](#deployment-to-github-pages)
     - [Deploying New Changes](#deploying-new-changes)
-    - [Forking Forking the Repository](#forking-forking-the-repository)
+    - [Forking the Repository](#forking-forking-the-repository)
     - [Clone the 'CI-P2 Fruit Game' GitHub Code Repository locally](#clone-the--ci-p2-fruit-game--github-code-repository-locally)
   - [Credits](#credits)
     - [Mentor Support](#mentor-support)
@@ -350,7 +350,7 @@ Once **GitHub Pages** is set up, normal **GithHub** flow updates the live page.
 
 View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
-### Forking Forking the Repository
+### Forking the Repository
 
 Forking creates a copy of the repository to view and/or make changes without affecting the original.
 
