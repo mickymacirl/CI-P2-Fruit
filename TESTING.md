@@ -95,7 +95,7 @@ The link should open in a new window, to each of the websites.
 
 The link opened in a new window, to each of the websites.
 
-## Form Testing
+### Form Testing
 
 ### Form Submit
 
@@ -136,7 +136,7 @@ The form displayed the message "Please fill out this field".
 
 ![Form Testing](/assets/readme/feedbacktestrm.jpg)
 
-## Favicon Validation
+### Favicon Validation
 
 The Favicon was tested so that when a user loads a page, the favicon should display in the top bar of the browser window.
 
