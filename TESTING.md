@@ -4,13 +4,13 @@
 
 ## Responsiveness
 
-Pages were tested on various different screen sizes from 320px on a Samsung fold 2, Samsung Galaxy Tab, Nexus 7 and a wide screen Windows machine. The website hides all content at 300px or below due to the size of the randomly generated main game board.
+Pages were tested on various screen sizes from 320px on a Samsung fold 2, Samsung Galaxy Tab, Nexus 7 and a wide screen Windows machine. The website hides all content at 300px or below due to the size of the randomly generated main game board.
 
 Pages were tested on most modern browsers including Microsoft Edge, Chrome, Firefox, Opera and Brave.
 
 **Test Steps:**
 
-1. Open the corresponding browser and open Match 2 Fruit Game website.
+1. Open the corresponding browser and open the Match 2 Fruit Game website.
 2. Open the browser development tools by hitting the corresponding dev tools shortcut.
 3. Resize to the desired width.
 4. Click and drag the browser window to lower or higher window size.
@@ -21,7 +21,7 @@ The website is responsive on all sizes and no pixelation is accruing. No overlap
 
 **Actual:**
 
-The website behaved as expected, with an initial issue with the center of text in all pages on a screen size of 320px, and WAVE warnings for small text. Media Query code was added to assist with the look and feel of the website at different screen sizes. Some miss aligned text when in landscape mode. ~~Issue with the CSS transform effect in Safari browser.~~ Issue listed in the Bugs section as fixed. [Bugs and Issues](#bug-and-issues)
+The website behaved as expected, with an initial issue with the center of text on all pages on a screen size of 320px, and WAVE warnings for small text. Media Query code was added to assist with the look and feel of the website at different screen sizes. Some miss-aligned text when in landscape mode. ~~Issue with the CSS transform effect in Safari browser.~~ Issue listed in the Bugs section as fixed. [Bugs and Issues](#bug-and-issues)
 
 The website was tested on the following physical devices, with no resizing issues seen:
 
@@ -159,7 +159,7 @@ The web browser displayed the favicon for the page.
 
 ### Random Fruit Placement in the Main Game board
 
-The game board was tested to ensure that the 10 different Fruit Emoji are randomly placed while being generated.
+The game board was tested to ensure that the 10 different Fruit Emojis are randomly placed while being generated.
 
 **Test Steps:**
 
@@ -172,11 +172,11 @@ The game board was tested to ensure that the 10 different Fruit Emoji are random
 
 **Expected:**
 
-The game board cells and emoji placements should be random so as not to have repeating or bunched together emoji.
+The game board cells and emoji placements should be random so as not to have repeated or bunched-together emoji.
 
 **Actual:**
 
-The game board cells and emoji placement is random, has no repeating or bunched together emoji.
+The game board cells and emoji placement is random has no repeating or bunched-together emoji.
 
 #### Board Random Testing 1
 
@@ -214,7 +214,7 @@ The two matched fruit cards should stay flipped.
 
 **Actual:**
 
-The two matched fruit card stayed flipped.
+The two matched fruit cards stayed flipped.
 
 ![Fruit Match True](/assets/readme/succmatchrm.jpg)
 
@@ -230,7 +230,7 @@ The game cards should flip back when a fruit match is unsuccessful.
 
 **Expected:**
 
-The two unmatched fruit cards should flip back to not turned.
+The two unmatched fruit cards should flip back to not turn.
 
 **Actual:**
 
@@ -250,7 +250,7 @@ The game.html page should show a message when Javascript is disabled.
 
 1. Open the corresponding browser and open the Match 2 Fruit Game website.
 2. Navigate to the Game page.
-3. Disable the Javascript function using the corresponding method in the choosen browser.
+3. Disable the Javascript function using the corresponding method in the chosen browser.
 
 **Expected:**
 
@@ -264,7 +264,7 @@ The page displays a message saying, **"This game requires JavaScript to work. Yo
 
 ### Win Message
 
-The Win Message was tested so that when a user finishes the game successfully by matching all fruit pairs, the game area should transform to a win screen with the total flips and total time its taken.
+The Win Message was tested so that when a user finishes the game successfully by matching all fruit pairs, the game area should transform into a win screen with the total flips and total time it's taken.
 
 **Test Steps:**
 
@@ -286,7 +286,7 @@ The game page displayed You have won with a total flip of 41 moves and a total t
 
 ### Javascript Validator Testing
 
-* Used Jshint to test Javacript, results are showing no errors. To achieve no issues the validator needs to be configured to allow ES6 through the configuration options or by adding the comment, "/*jshint esversion: 6*/" at the top of the Javascript paste/file.
+* Used Jshint to test Javascript, results are showing no errors. To achieve no issues the validator needs to be configured to allow ES6 through the configuration options or by adding the comment, "/*jshint esversion: 6*/" at the top of the Javascript paste/file.
 
 ![Jshint Results](./assets/readme/jshintrm.jpg)
 
@@ -304,10 +304,10 @@ The game page displayed You have won with a total flip of 41 moves and a total t
 
 ## Bug and Issues
 
-1. ~~When a user browses the index.html web page on a device with less than 700px, the font size is too big.~~  Fixed by creating Media Query to increase and decrease as resolution is changed.
-2. ~~When a user browses the index.html web page on any device, the rules section doesn't display correctly and centered.~~ Fixed by creating a new css style to hold the content.
+1. ~~When a user browses the index.html web page on a device with less than 700px, the font size is too big.~~  Fixed by creating Media Query to increase and decrease as the resolution is changed.
+2. ~~When a user browses the index.html web page on any device, the rules section doesn't display correctly and is centered.~~ Fixed by creating a new CSS style to hold the content.
 3. ~~Main game board isn't responsive on screen sizes below 300px.~~ Created a CSS Media Query to hide all content below 300px.
 4. Some miss aligned text when in landscape mode. Add media query for landscape modes.
-5. ~~On Safari, the transform / translate doesn't work correctly. *[why-on-safari-the-transform-translate-doesnt-work-correctly](https://stackoverflow.com/questions/29864790/why-on-safari-the-transform-translate-doesnt-work-correctly)*~~ Fixed by using webkit settings in CSS. Safari Testing results below.
+5. ~~On Safari, the transform/translate doesn't work correctly. *[why-on-safari-the-transform-translate-doesnt-work-correctly](https://stackoverflow.com/questions/29864790/why-on-safari-the-transform-translate-doesnt-work-correctly)*~~ Fixed by using WebKit settings in CSS. Safari Testing results are below.
 
 ![LambDatTest Results](/assets/readme/Labdasafarirm.jpg)
