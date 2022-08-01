@@ -50,7 +50,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
     - [Version Control](#version-control)
     - [Deployment to GitHub Pages](#deployment-to-github-pages)
     - [Deploying New Changes](#deploying-new-changes)
-    - [Forking the Repository](#forking-forking-the-repository)
+    - [Forking the Repository](#forking-the-repository)
     - [Clone the 'CI-P2 Fruit Game' GitHub Code Repository locally](#clone-the--ci-p2-fruit-game--github-code-repository-locally)
   - [Credits](#credits)
     - [Mentor Support](#mentor-support)
