@@ -21,7 +21,7 @@ The website is responsive on all sizes and no pixelation is accruing. No overlap
 
 **Actual:**
 
-The website behaved as expected, with an initial issue with the center of text in all pages on a screen size of 320px, and WAVE warnings for small text. Media Query code was added to assist with the look and feel of the website at different screen sizes. Some miss aligned text when in landscape mode. Issue with the CSS transform effect in Safari browser. Issue is listed in the Bugs section.
+The website behaved as expected, with an initial issue with the center of text in all pages on a screen size of 320px, and WAVE warnings for small text. Media Query code was added to assist with the look and feel of the website at different screen sizes. Some miss aligned text when in landscape mode. ~~Issue with the CSS transform effect in Safari browser.~~ Issue listed in the Bugs section as fixed.
 
 The website was tested on the following physical devices, with no resizing issues seen:
 
@@ -287,6 +287,7 @@ The game page displayed You have won with a total flip of 41 moves and a total t
 1. ~~When a user browses the index.html web page on a device with less than 700px, the font size is too big.~~  Fixed by creating Media Query to increase and decrease as resolution is changed.
 2. ~~When a user browses the index.html web page on any device, the rules section doesn't display correctly and centered.~~ Fixed by creating a new css style to hold the content.
 3. ~~Main game board isn't responsive on screen sizes below 300px.~~ Created a CSS Media Query to hide all content below 300px.
-4. ~~On Safari, the transform / translate doesn't work correctly. *[why-on-safari-the-transform-translate-doesnt-work-correctly](https://stackoverflow.com/questions/29864790/why-on-safari-the-transform-translate-doesnt-work-correctly)*~~ Fixed by using webkit settings in CSS.
+4. Some miss aligned text when in landscape mode. Add media query for landscape modes.
+5. ~~On Safari, the transform / translate doesn't work correctly. *[why-on-safari-the-transform-translate-doesnt-work-correctly](https://stackoverflow.com/questions/29864790/why-on-safari-the-transform-translate-doesnt-work-correctly)*~~ Fixed by using webkit settings in CSS.
 
 ![LambDatTest Results](/assets/readme/Labdasafarirm.jpg)
