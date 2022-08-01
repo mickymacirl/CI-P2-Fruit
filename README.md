@@ -378,7 +378,7 @@ Below are the steps required:
 
 ## LambDaTest Safari
 
-* Used *[LambDaTestc.com](https://www.lambdatest.com/)* to test webkit changes in CSS.
+* Used *[LambDaTest.com](https://www.lambdatest.com/)* to test webkit changes in CSS.
 
 ## Git and GitHub
 
