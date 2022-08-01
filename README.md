@@ -87,9 +87,9 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ## Features to be Added
 
-* A user tracking system
-* A score board of passed visits
-* An option to choose certain size of main game board
+* A user tracking system.
+* A scoreboard of passed visits.
+* An option to choose a certain size of the main game board.
 
 ## Design Choices
 
@@ -210,7 +210,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ## Javascript
 
-* This websites game board uses *[Javascript](https://en.wikipedia.org/wiki/JavaScript)* to an external file.
+* This website's game board uses *[Javascript](https://en.wikipedia.org/wiki/JavaScript)* to an external file.
 
 ## Visual Studio Code
 
@@ -220,9 +220,9 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 * Source code is hosted on *[GitHub](https://github.com/)* and deployed using *[GitPages](https://pages.github.com/)*.
 
-## Adobe Photohop
+## Adobe Photoshop
 
-* Used *[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)* for over all design and logo images.
+* Used *[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)* for overall design and logo images.
 
 ## Adobe Dreamweaver
 
@@ -264,8 +264,8 @@ The site was deployed to GitHub Pages.
 
 Below are the steps required:
 
-1. In GitHub, navigate to your username.github.io repository and click Settings.
-2. Within Settings, navigate to the Source section within the GitHub Pages section. From the dropdown menu, select master branch and then click Save.
+1. In **GitHub**, navigate to your username.github.io repository and click Settings.
+2. Within Settings, navigate to the Source section within the **GitHub Pages** section. From the dropdown menu, select master branch and then click Save.
 
 ## Deploying New Changes
 
@@ -275,18 +275,18 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ## Forking Forking the Repository
 
-Forking creates a copy of the repository in order to view and/or make changes without affecting the original.
+Forking creates a copy of the repository to view and/or make changes without affecting the original.
 
 Below are the steps required:
 
 1. In GitHub, access the specific GitHub Repository - *[Match 2 Fruit Game](https://github.com/mickymacirl/CI-P2-Fruit)*
 2. Towards the top right of the repository page, underneath the user icon you will find and click the "Fork" Button.
-3. You will have successfully created a copy of the original repository within the logged in GitHub account.
+3. You will have successfully created a copy of the original repository within the logged-in GitHub account.
 
 ## Clone the 'CI-P2 Fruit Game' GitHub Code Repository locally
 
-1. Go to the page of the repository that you want to clone, CI-P2 GitHub site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
-2. Click on “Code” menu and copy the URL.
+1. Go to the page of the repository that you want to clone, the **CI-P2 GitHub** site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
+2. Click on the **“Code”** menu and copy the URL.
 3. Use the git clone command along with the copied URL.
 4. git clone <https://github.com/USERNAME/REPOSITORY>
 
