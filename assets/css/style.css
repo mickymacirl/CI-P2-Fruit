@@ -25,6 +25,9 @@ body {
 
 /* No JS styling message */
 no-js {
+    position: absolute;
+    top: 20%;
+    left: 50%;
     text-align: center;
     width: 60%;
     position: fixed;
