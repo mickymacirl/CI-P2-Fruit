@@ -70,7 +70,7 @@ Mobile Lighthouse Testing is showing a score of 95, with SEO having a score of 9
 
 ## Functional Testing
 
-## Navigation Links Testing
+### Navigation Links Testing
 
 Testing was done to make sure all navigation links led to the intended pages on their respective pages.
 
@@ -78,7 +78,7 @@ Testing was done to make sure all navigation links led to the intended pages on 
 
 The navigation links on the navbar on each page were used to do this and were successful.
 
-## Footer Link Validation
+### Footer Link Validation
 
 The footer was tested so that when a user clicks on the link for GitPod and Adobe Dreamweaver, the page should open in a new browser window.
 
@@ -97,7 +97,7 @@ The link opened in a new window, to each of the websites.
 
 ## Form Testing
 
-## Form Submit
+### Form Submit
 
 The Feedback form was tested so that when a user clicks on submit, the act directs to the confirm.html web page with a success message.
 
@@ -116,7 +116,7 @@ The user should be redirected to the confirm.html page with the success message 
 
 The website redirected the user to the confirm.html page with the success message being displayed.
 
-## Form Validation
+### Form Validation
 
 The Feedback form was tested so that when a user tries to submit a blank form, the form should fail to submit with a "Please fill out this field" message.
 
@@ -290,13 +290,13 @@ The game page displayed You have won with a total flip of 41 moves and a total t
 
 ![Jshint Results](./assets/readme/jshintrm.jpg)
 
-## HTML Validator Testing
+### HTML Validator Testing
 
 * Used *[W3 HTML Validator](https://jigsaw.w3.org/css-validator/)* to validate HTML, results are showing no errors.
 
 ![HTML Results](/assets/readme/htmlvalrm.jpg)
 
-## CSS Validator Testing
+### CSS Validator Testing
 
 * Used *[W3 CSS Validator](https://jigsaw.w3.org/css-validator/)* to validate CSS, results are showing no errors.
 
