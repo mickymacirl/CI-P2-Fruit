@@ -281,3 +281,10 @@ The game page displayed You have won with a total flip of 41 moves and a total t
 * Used *[W3 CSS Validator](https://jigsaw.w3.org/css-validator/)* to validate CSS, results are showing no errors.
 
 ![CSS Results](/assets/readme/cssvalrm.jpg)
+
+## Bug and Issues
+
+1. ~~When a user browses the index.html web page on a device with less than 700px, the font size is too big.~~  Fixed by creating Media Query to increase and decrease as resolution is changed.
+2. ~~When a user browses the index.html web page on any device, the rules section doesn't display correctly and centered.~~ Fixed by creating a new css style to hold the content. 
+3. ~~Main game board isn't responsive on screen sizes below 300px.~~ Created a CSS Media Query to hide all content below 300px.
+4. On Safari, the transform / translate doesn't work correctly.
