@@ -51,7 +51,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 * The feedback form is using the *[Code Institute Form Dump](https://formdump.codeinstitute.net/)* to validate the form.
 
-* Access the Confim.html page: *[here](https://mickymacirl.github.io/CI-P2-Fruit/confirm.html)*
+* Access the Confirm.html page: *[here](https://mickymacirl.github.io/CI-P2-Fruit/confirm.html)*
 
 ![Confirm 320 Readme](./assets/readme/confirm320rm.jpg)
 
@@ -88,7 +88,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 ## Features to be Added
 
 * A user tracking system.
-* A scoreboard of passed visits.
+* A scoreboard of past visits.
 * An option to choose a certain size of the main game board.
 
 ## Design Choices
