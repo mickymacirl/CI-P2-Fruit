@@ -141,8 +141,11 @@ nav a {
     -webkit-transform: translate(-50%, 60%);
 }
 
-/* Styling normal html pages */
-.normalpage {
+/* No JS styling message */
+.main2 {
+    position: absolute;
+    top: 20%;
+    left: 50%;
     text-align: center;
     width: 60%;
     position: fixed;
@@ -153,11 +156,8 @@ nav a {
     font-size: 16px;
 }
 
-/* No JS styling message */
-.main2 {
-    position: absolute;
-    top: 20%;
-    left: 50%;
+/* Styling normal html pages */
+.normalpage {
     text-align: center;
     width: 60%;
     position: fixed;
