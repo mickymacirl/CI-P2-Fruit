@@ -24,7 +24,7 @@ body {
 }
 
 /* No JS styling message */
-.no-js {
+no-js {
     text-align: center;
     width: 60%;
     position: fixed;
