@@ -374,7 +374,11 @@ Below are the steps required:
 
 ## CSS3 2D Transforms
 
-* Used *[CanIuse?](https://caniuse.com/transforms2d)* to troubleshoot translate / transform in safari.
+* Used *[CanIuse?](https://caniuse.com/transforms2d)* to troubleshoot translate / transform in Safari.
+
+## LambDaTest Safari
+
+* Used *[LambDaTestc.com](https://www.lambdatest.com/)* to test webkit changes in CSS.
 
 ## Git and GitHub
 
