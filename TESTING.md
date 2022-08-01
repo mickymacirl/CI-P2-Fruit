@@ -95,8 +95,6 @@ The link should open in a new window, to each of the websites.
 
 The link opened in a new window, to each of the websites.
 
-### Form Testing
-
 ### Form Submit
 
 The Feedback form was tested so that when a user clicks on submit, the act directs to the confirm.html web page with a success message.
