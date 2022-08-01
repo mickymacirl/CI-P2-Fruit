@@ -288,6 +288,6 @@ The game page displayed You have won with a total flip of 41 moves and a total t
 2. ~~When a user browses the index.html web page on any device, the rules section doesn't display correctly and centered.~~ Fixed by creating a new css style to hold the content.
 3. ~~Main game board isn't responsive on screen sizes below 300px.~~ Created a CSS Media Query to hide all content below 300px.
 4. Some miss aligned text when in landscape mode. Add media query for landscape modes.
-5. ~~On Safari, the transform / translate doesn't work correctly. *[why-on-safari-the-transform-translate-doesnt-work-correctly](https://stackoverflow.com/questions/29864790/why-on-safari-the-transform-translate-doesnt-work-correctly)*~~ Fixed by using webkit settings in CSS.
+5. ~~On Safari, the transform / translate doesn't work correctly. *[why-on-safari-the-transform-translate-doesnt-work-correctly](https://stackoverflow.com/questions/29864790/why-on-safari-the-transform-translate-doesnt-work-correctly)*~~ Fixed by using webkit settings in CSS. Safari Testing results below.
 
 ![LambDatTest Results](/assets/readme/Labdasafarirm.jpg)
