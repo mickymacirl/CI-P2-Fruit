@@ -380,7 +380,7 @@ Below are the steps required:
 
 ## CSS3 2D Transforms
 
-* Used *[CanIuse?](https://caniuse.com/transforms2d)* to troubleshoot translate / transform in Safari.
+* Used *[CanIuse?](https://caniuse.com/transforms2d)* to troubleshoot translate/transform in Safari.
 
 ## LambDaTest Safari
 
