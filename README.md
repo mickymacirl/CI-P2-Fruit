@@ -308,6 +308,10 @@ Below are the steps required:
 
 * Used TableGenerator.com *[Table Generator](https://www.tablesgenerator.com/markdown_tables)* to build Emoji Readme Table.
 
+## Markdown TOC Generator
+
+* Used Ecotrust Canada's *[Markdown TOC Generator](https://ecotrust-canada.github.io/markdown-toc/)* to build Readme TOC.
+
 ## Meta Tags
 
 * Used SEO Timers *[Meta Tag Generator](https://www.seoptimer.com/meta-tag-generator)* to generate html meta-tags.
