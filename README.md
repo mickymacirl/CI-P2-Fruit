@@ -372,6 +372,10 @@ Below are the steps required:
 
 * Used *[GitLens 12](https://open-vsx.org/extension/eamodio/gitlens)* extension in Visual Studio to help over all Git management.
 
+## CSS3 2D Transforms
+
+* Used *[CanIuse?](https://caniuse.com/transforms2d)* to troubleshoot translate / transform in safari.
+
 ## Git and GitHub
 
 * Used *[W3C Git Tutorial](https://www.w3schools.com/git/default.asp?remote=github)* for reference.
