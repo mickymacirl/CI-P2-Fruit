@@ -6,125 +6,48 @@ Match 2 Fruit is a memory game where you match two fruits. You flip the first ca
 
 View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
-- [Match 2 Fruit Game](#match-2-fruit-game)
-  - [Features of Website](#features-of-website)
-  - [Header](#header)
-  - [NavBar](#navbar)
-  - [Footer](#footer)
-  - [Index Page](#index-page)
-  - [Game Page](#game-page)
-  - [Feedback Page](#feedback-page)
-  - [Confirm Page](#confirm-page)
-  - [404 Page](#404-page)
-  - [Game Board](#game-board)
-  - [Features to be Added](#features-to-be-added)
-  - [Design Choices](#design-choices)
-  - [Fruit Emoji](#fruit-emoji)
-  - [Back of Card Image](#back-of-card-image)
-  - [Colors](#colors)
-  - [Fonts](#fonts)
-  - [Logo](#logo)
-  - [Favicon](#favicon)
-  - [Wireframes](#wireframes)
-    - [Landing Page Wireframe](#landing-page-wireframe)
-    - [Game Page Wireframe](#game-page-wireframe)
-    - [Feedback Page Wireframe](#feedback-page-wireframe)
-    - [Confirm Page Wireframe](#confirm-page-wireframe)
-    - [404 Page Wireframe](#404-page-wireframe)
-  - [User Goals](#user-goals)
-  - [User Stories](#user-stories)
-  - [Site Owner Goals](#site-owner-goals)
-  - [Technology](#technology)
-  - [HTML](#html)
-  - [CSS](#css)
-  - [Javascript](#javascript)
-  - [Visual Studio Code](#visual-studio-code)
-  - [GitHub](#github)
-  - [Adobe Photoshop](#adobe-photoshop)
-  - [Adobe Dreamweaver](#adobe-dreamweaver)
-  - [Google Fonts](#google-fonts)
-  - [balsamiq](#balsamiq)
-  - [Testing](#testing)
-  - [Deployment](#deployment)
-  - [Template](#template)
-  - [Version Control](#version-control)
-  - [Deployment to GitHub Pages](#deployment-to-github-pages)
-  - [Deploying New Changes](#deploying-new-changes)
-  - [Forking Forking the Repository](#forking-forking-the-repository)
-  - [Clone the 'CI-P2 Fruit Game' GitHub Code Repository locally](#clone-the--ci-p2-fruit-game--github-code-repository-locally)
-  - [Credits](#credits)
-  - [Mentor Support](#mentor-support)
-  - [Markdown Language](#markdown-language)
-  - [Markdown Table Generator](#markdown-table-generator)
-  - [Markdown TOC Generator](#markdown-toc-generator)
-  - [Meta Tags](#meta-tags)
-  - [W3 Schools Media Queries](#w3-schools-media-queries)
-  - [Sticky Header and Footer](#sticky-header-and-footer)
-  - [WebTips.Dev Memory Game](#webtipsdev-memory-game)
-  - [Grid Template Columns](#grid-template-columns)
-  - [Fruit Emojis](#fruit-emojis)
-  - [Code Institute Form Dump](#code-institute-form-dump)
-  - [Javascript Basics](#javascript-basics)
-  - [Favicon Generator](#favicon-generator)
-  - [W3 School Responsive Web Design - Images](#w3-school-responsive-web-design---images)
-  - [Mozilla.org Reference](#mozillaorg-reference)
-  - [Adobe Fonts](#adobe-fonts)
-  - [Unicorn Revealer](#unicorn-revealer)
-  - [Chrome Dev Tools](#chrome-dev-tools)
-  - [Media Genius](#media-genius)
-  - [markdownlint](#markdownlint)
-  - [GitLens 12](#gitlens-12)
-  - [CSS3 2D Transforms](#css3-2d-transforms)
-  - [LambDaTest Safari](#lambdatest-safari)
-  - [Grammarly Office Plugin](#grammarly-office-plugin)
-  - [Git and GitHub](#git-and-github)
-  - [GitPod](#gitpod)
-  - [Multi-Device Website Mockup Generator](#multi-device-website-mockup-generator)
-  - [Version Control Reference](#version-control-reference)
-  - [Content](#content)
-
 ## Features of Website
 
-## Header
+### Header
 
 - The website has a fixed header with the Match 2 Logo aligned left and it is responsive on all device sizes.
 - This will be displayed throughout the website.
 
 ![Header Readme](./assets/readme/navbar700.jpg)
 
-## NavBar
+### NavBar
 
 - The navigation links to the Home and the Feedback page and it is responsive on all device sizes.
 - Users will be able to navigate between each page of the site, having consistent menu placement on the different screen sizes.
 
 ![Navbar Readme Responsive](./assets/readme/navbar320.jpg)
 
-## Footer
+### Footer
 
 - The website has a fixed footer which describes what programs the site was designed in, with a link to each that opens on a new page.
 - Users will be able to find additional information about the programs used.
 
 ![Footer Readme](./assets/readme/footerrm.jpg)
 
-## Index Page
+### Index Page
 
 ![Index 320 Readme](./assets/readme/index320rm.jpg)
 
 ![Index 700 Readme](./assets/readme/index700rm.jpg)
 
-## Game Page
+### Game Page
 
 ![Game 320 Readme](./assets/readme/game320rm.jpg)
 
 ![Game 700 Readme](./assets/readme/game700rm.jpg)
 
-## Feedback Page
+### Feedback Page
 
 ![Feedback 320 Readme](./assets/readme/fb320rm.jpg)
 
 ![Feedback 700 Readme](./assets/readme/fb700rm.jpg)
 
-## Confirm Page
+### Confirm Page
 
 - The feedback form is using the *[Code Institute Form Dump](https://formdump.codeinstitute.net/)* to validate the form.
 
@@ -134,7 +57,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ![Confirm 700 Readme](./assets/readme/confirm700rm.jpg)
 
-## 404 Page
+### 404 Page
 
 - Access the 404.html page: *[here](https://mickymacirl.github.io/CI-P2-Fruit/404.html)*
 
@@ -142,7 +65,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ![404 700 Readme](./assets/readme/404700rm.jpg)
 
-## Game Board
+### Game Board
 
 - The Main Game Board has a Start button, that disables with a grey color when the board is active, with the number of moves taken so far and the time since either clicking on the start button or turning the first card, both displayed above the random grid of Cards.
 
@@ -162,7 +85,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ![Play Again Readme](/assets/readme/playagainrm.jpg)
 
-## Features to be Added
+### Features to be Added
 
 - A user tracking system.
 - A scoreboard of past visits.
@@ -170,7 +93,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ## Design Choices
 
-## Fruit Emoji
+### Fruit Emoji
 
 - The following Emoji were used to randomly fill the main game board using the generateGame function:
 
@@ -187,13 +110,13 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 | Mango       | U+1F96D     | &#129389       |![Fruit Emoji 129389](./assets/readme/129389.jpg)|
 | Cherries    | U+1F352     | &#127826       |![Fruit Emoji 127826](./assets/readme/127826.jpg)|
 
-## Back of Card Image
+### Back of Card Image
 
 - From the Site Logo, created a back of the card image to display the card front before a card is flipped.
 
 ![Card Back](/assets/readme/backcardrm.jpg)
 
-## Colors
+### Colors
 
 - The website, logo and text effects use the following colors which go together well.
 
@@ -201,7 +124,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ![Colors Website](/assets/readme/colorsrm.jpg)
 
-## Fonts
+### Fonts
 
 - The below fonts look well together on the page, and suit the look and feel of the website.
 
@@ -211,7 +134,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 - Muli is no longer listed under Google Fonts but can still be imported for use with a website, explanation found *[here](https://www.reddit.com/r/fonts/comments/i1b44r/did_google_remove_muli_font_from_its_collection/here)*.
 
-## Logo
+### Logo
 
 - The logo was designed to fit the theme of a fruit matching game.
 
@@ -219,39 +142,39 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 - Used the *[Gliker Semi Bold](https://www.whatfontis.com/NMY_Gliker-Semi-Bold.font)* and *[HK Modular](https://www.fontpath.com/?layout=grid&color=white&adjust=capital&sort=popular&size=100&spacing=0&name=&cat=170&text=&expand=T11882&page=2)* available for use on the *[Canva](https://www.canva.com/)* platform for the logo design.
 
-## Favicon
+### Favicon
 
 - The Favicon was designed from the back of the card image, the image used when using *[Favicon & App Icon Generator](https://www.favicon-generator.org/)* was:
 
 ![Image from Logo used for Favicon](./assets/readme/backcardiconrm.jpg)
 
-## Wireframes
+### Wireframes
 
-### Landing Page Wireframe
+#### Landing Page Wireframe
 
 ![Index Page 320](/assets/readme/IPWF320.jpg)
 
 ![Index Page 700](/assets/readme/IPWF700.jpg)
 
-### Game Page Wireframe
+#### Game Page Wireframe
 
 ![Game Page 320](/assets/readme/GPWF320.jpg)
 
 ![Game Page 700](/assets/readme/GPWF700.jpg)
 
-### Feedback Page Wireframe
+#### Feedback Page Wireframe
 
 ![Feedback Page 320](/assets/readme/FPWF320.jpg)
 
 ![Feedback Page 700](/assets/readme/FPWF700.jpg)
 
-### Confirm Page Wireframe
+#### Confirm Page Wireframe
 
 ![Confirm Page 320](/assets/readme/CPWF320.jpg)
 
 ![Confirm Page 700](/assets/readme/CPWF700.jpg)
 
-### 404 Page Wireframe
+#### 404 Page Wireframe
 
 ![404 Page 320](/assets/readme/404WF320.jpg)
 
@@ -277,39 +200,39 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ## Technology
 
-## HTML
+### HTML
 
 - The structure of this website is using *[HTML](https://en.wikipedia.org/wiki/HTML)*.
 
-## CSS
+### CSS
 
 - The website was styled by connecting a custom *[CSS](https://en.wikipedia.org/wiki/CSS)* to an external file.
 
-## Javascript
+### Javascript
 
 - This website's game board uses *[Javascript](https://en.wikipedia.org/wiki/JavaScript)* to an external file.
 
-## Visual Studio Code
+### Visual Studio Code
 
 - The website was developed using *[Visual Studio](https://visualstudio.microsoft.com/)* Code IDE.
 
-## GitHub
+### GitHub
 
 - Source code is hosted on *[GitHub](https://github.com/)* and deployed using *[GitPages](https://pages.github.com/)*.
 
-## Adobe Photoshop
+### Adobe Photoshop
 
 - Used *[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)* for overall design and logo images.
 
-## Adobe Dreamweaver
+### Adobe Dreamweaver
 
 - The website was tested and designed using *[Adobe Dreamweaver](https://www.adobe.com/products/dreamweaver.html)*.
 
-## Google Fonts
+### Google Fonts
 
 - This website uses *[Google Fonts](https://fonts.google.com/)*.
 
-## balsamiq
+### balsamiq
 
 - Created wireframes for this website using *[balsamiq](https://balsamiq.com/wireframes/desktop/#/)*.
 
@@ -319,11 +242,11 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ## Deployment
 
-## Template
+### Template
 
 - A repository called 'CI-P2-Fruit' was created using the *[Code Institute GitPod Full Template](https://github.com/Code-Institute-Org/gitpod-full-template)*.
 
-## Version Control
+### Version Control
 
 Both *[Visual Studio](https://visualstudio.microsoft.com/)* code editor and *[GitPod](https://gitpod.io/workspaces)* were used to create this site and then pushed to the GitHub remote repository named ‘*[CI-P2-Fruit](https://github.com/mickymacirl/CI-P2-Fruit)*’.
 
@@ -335,7 +258,7 @@ The following commands were used to push code to the remote repository:
 
 3. *git push* was used to push all local changes to the remote repository on GitHub.
 
-## Deployment to GitHub Pages
+### Deployment to GitHub Pages
 
 The site was deployed to GitHub Pages.
 
@@ -344,13 +267,13 @@ Below are the steps required:
 1. In **GitHub**, navigate to your username.github.io repository and click Settings.
 2. Within Settings, navigate to the Source section within the **GitHub Pages** section. From the dropdown menu, select master branch and then click Save.
 
-## Deploying New Changes
+### Deploying New Changes
 
 Once **GitHub Pages** is set up, normal **GithHub** flow updates the live page.
 
 View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
-## Forking Forking the Repository
+### Forking Forking the Repository
 
 Forking creates a copy of the repository to view and/or make changes without affecting the original.
 
@@ -360,7 +283,7 @@ Below are the steps required:
 2. Towards the top right of the repository page, underneath the user icon you will find and click the "Fork" Button.
 3. You will have successfully created a copy of the original repository within the logged-in GitHub account.
 
-## Clone the 'CI-P2 Fruit Game' GitHub Code Repository locally
+### Clone the 'CI-P2 Fruit Game' GitHub Code Repository locally
 
 1. Go to the page of the repository that you want to clone, the **CI-P2 GitHub** site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 2. Click on the **“Code”** menu and copy the URL.
@@ -373,119 +296,119 @@ Below are the steps required:
 
 ## Credits
 
-## Mentor Support
+### Mentor Support
 
 - Mentor support from *[Daisy McGirr](https://github.com/Daisy-McG)*.
 
-## Markdown Language
+### Markdown Language
 
 - Used syntax from *[Markdown Guide](https://www.markdownguide.org/basic-syntax/)* for reference.
 
-## Markdown Table Generator
+### Markdown Table Generator
 
 - Used TableGenerator.com *[Table Generator](https://www.tablesgenerator.com/markdown_tables)* to build Emoji Readme Table.
 
-## Markdown TOC Generator
+### Markdown TOC Generator
 
 - Used Ecotrust Canada's *[Markdown TOC Generator](https://ecotrust-canada.github.io/markdown-toc/)* to build Readme TOC.
 
-## Meta Tags
+### Meta Tags
 
 - Used SEO Timers *[Meta Tag Generator](https://www.seoptimer.com/meta-tag-generator)* to generate html meta-tags.
 
-## W3 Schools Media Queries
+### W3 Schools Media Queries
 
 - Used W3 Schools *[CSS Media Queries - More Examples](https://www.w3schools.com/Css/css3_mediaqueries_ex.asp)* to code media queries.
 
-## Sticky Header and Footer
+### Sticky Header and Footer
 
 - Sticky Header and Footer from *[Tutorial Republic](https://www.tutorialrepublic.com/faq/how-to-create-fixed-header-or-footer-using-css.php)*.
 
-## WebTips.Dev Memory Game
+### WebTips.Dev Memory Game
 
 - WebTips.Dev Memory Game from *[WebTips.Dev](https://www.webtips.dev/memory-game-in-javascript)*.
 
-## Grid Template Columns
+### Grid Template Columns
 
 - Used *[Grid Template Columns](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns)* for reference for the main game board.
 
 - Used *[W3 School Grid Template Columns](https://www.w3schools.com/CSSref/pr_grid-template-columns.asp)* for reference and troubleshooting the main game board.
 
-## Fruit Emojis
+### Fruit Emojis
 
 - Fruit Eomijis from *[AltCodes.net](https://www.alt-codes.net/food-emoji)*.
 
-## Code Institute Form Dump
+### Code Institute Form Dump
 
 - Used *[Code Institute Form Dump](https://formdump.codeinstitute.net/)* to validate contact form.
 
-## Javascript Basics
+### Javascript Basics
 
 - Javascript Basics from *[JsChallenger.com](https://www.jschallenger.com/javascript-fundamentals/javascript-basics)*.
 
-## Favicon Generator
+### Favicon Generator
 
 - Used *[Favicon & App Icon Generator](https://www.favicon-generator.org/)* to generate the favicon and *[W3 Schools HTML Favicon](https://www.w3schools.com/html/html_favicon.asp)* for the HTML.
 
-## W3 School Responsive Web Design - Images
+### W3 School Responsive Web Design - Images
 
 - Used *[W3 School Responsive Web Design - Images](https://www.w3schools.com/css/css_rwd_images.asp)* to resize logo image.
 
-## Mozilla.org Reference
+### Mozilla.org Reference
 
 - Reference from *[Mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)*.
 
-## Adobe Fonts
+### Adobe Fonts
 
 - Used *[Muli from Adobe Fonts](https://fonts.adobe.com/fonts/muli)* for screenshots for readme.
 
-## Unicorn Revealer
+### Unicorn Revealer
 
 - Used *[Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB)* to troubleshoot layout and responsiveness.
 
-## Chrome Dev Tools
+### Chrome Dev Tools
 
 - Used *[Chrome Dev tools](https://developers.google.com/web/tools)* to debug code and troubleshoot layout and responsiveness.
 
-## Media Genius
+### Media Genius
 
 - Used *[Media Genius](<https://responsivedesignchecker.com/>)* responsiveness website to troubleshoot layout and responsiveness.
 
-## markdownlint
+### markdownlint
 
 - Used *[MarkdownLint](https://open-vsx.org/extension/DavidAnson/vscode-markdownlint)* extension in Visual Studio to troubleshoot markdown errors in readme's.
 
-## GitLens 12
+### GitLens 12
 
 - Used *[GitLens 12](https://open-vsx.org/extension/eamodio/gitlens)* extension in Visual Studio to help over all Git management.
 
-## CSS3 2D Transforms
+### CSS3 2D Transforms
 
 - Used *[CanIuse?](https://caniuse.com/transforms2d)* to troubleshoot translate/transform in Safari.
 
-## LambDaTest Safari
+### LambDaTest Safari
 
 - Used *[LambDaTest.com](https://www.lambdatest.com/)* to test webkit changes in CSS.
 
-## Grammarly Office Plugin
+### Grammarly Office Plugin
 
 - Used *[Grammarly Office Plugin](https://www.grammarly.com/office-addin)* on spelling, grammar, punctuation, clarity, and writing style in the ReadMe's.
 
-## Git and GitHub
+### Git and GitHub
 
 - Used *[W3C Git Tutorial](https://www.w3schools.com/git/default.asp?remote=github)* for reference.
 
 - Used *[GitHub Git-Guides](https://github.com/git-guides)* for reference.
 
-## GitPod
+### GitPod
 
 - Used *[GitPod Help Page](https://www.gitpod.io/support)* for reference.
 
-## Multi-Device Website Mockup Generator
+### Multi-Device Website Mockup Generator
 
 - Used *[Am I Responsive](https://ui.dev/amiresponsive)* to create a mutli-device mockup.
 
-## Version Control Reference
+### Version Control Reference
 
 - Used Our Coding Club *[GitHub.io](https://ourcodingclub.github.io/tutorials/git/)* How To's for reference.
 
