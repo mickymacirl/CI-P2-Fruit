@@ -21,7 +21,7 @@ The website is responsive on all sizes and no pixelation is accruing. No overlap
 
 **Actual:**
 
-The website behaved as expected, with an initial issue with the center of text in all pages on a screen size of 320px, and WAVE warnings for small text. Media Query code was added to assist with the look and feel of the website at different screen sizes. Some miss aligned text when in landscape mode. ~~Issue with the CSS transform effect in Safari browser.~~ Issue listed in the Bugs section as fixed.
+The website behaved as expected, with an initial issue with the center of text in all pages on a screen size of 320px, and WAVE warnings for small text. Media Query code was added to assist with the look and feel of the website at different screen sizes. Some miss aligned text when in landscape mode. *[Bugs and Issues](#bug-and-issues)*~~Issue with the CSS transform effect in Safari browser.~~ Issue listed in the Bugs section as fixed.
 
 The website was tested on the following physical devices, with no resizing issues seen:
 
