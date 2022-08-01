@@ -265,7 +265,7 @@ The site was deployed to GitHub Pages.
 Below are the steps required:
 
 1. In **GitHub**, navigate to your username.github.io repository and click Settings.
-2. Within Settings, navigate to the Source section within the **GitHub Pages** section. From the dropdown menu, select master branch and then click Save.
+2. Within Settings, navigate to the Source section within the **GitHub Pages** section. From the dropdown menu, select the master branch and then click Save.
 
 ### Deploying New Changes
 
@@ -380,7 +380,7 @@ Below are the steps required:
 
 ### GitLens 12
 
-- Used *[GitLens 12](https://open-vsx.org/extension/eamodio/gitlens)* extension in Visual Studio to help over all Git management.
+- Used *[GitLens 12](https://open-vsx.org/extension/eamodio/gitlens)* extension in Visual Studio to help overall Git management.
 
 ### CSS3 2D Transforms
 
@@ -406,7 +406,7 @@ Below are the steps required:
 
 ### Multi-Device Website Mockup Generator
 
-- Used *[Am I Responsive](https://ui.dev/amiresponsive)* to create a mutli-device mockup.
+- Used *[Am I Responsive](https://ui.dev/amiresponsive)* to create a multi-device mockup.
 
 ### Version Control Reference
 
