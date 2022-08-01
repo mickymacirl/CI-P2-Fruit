@@ -2,6 +2,35 @@
 
 * Link to ReadMe can be found at the *[ReadMe](/README.md)* link.
 
+* [Testing](#testing)
+  * [Responsiveness](#responsiveness)
+  * [Accessibility](#accessibility)
+  * [Lighthouse Testing](#lighthouse-testing)
+    * [Desktop Testing](#desktop-testing)
+    * [Mobile Testing](#mobile-testing)
+  * [Functional Testing](#functional-testing)
+    * [Navigation Links Testing](#navigation-links-testing)
+    * [Footer Link Validation](#footer-link-validation)
+    * [Form Submit](#form-submit)
+    * [Form Validation](#form-validation)
+    * [Favicon Validation](#favicon-validation)
+  * [Game Function Validation](#game-function-validation)
+    * [Random Fruit Placement in the Main Game board](#random-fruit-placement-in-the-main-game-board)
+      * [Board Random Testing 1](#board-random-testing-1)
+      * [Board Random Testing 2](#board-random-testing-2)
+      * [Board Random Testing 3](#board-random-testing-3)
+      * [Board Random Testing 4](#board-random-testing-4)
+      * [Board Random Testing 5](#board-random-testing-5)
+    * [Fruit Match True](#fruit-match-true)
+    * [Fruit Match False](#fruit-match-false)
+    * [Disable JavaScript](#disable-javascript)
+    * [Win Message](#win-message)
+  * [Validator Testing](#validator-testing)
+    * [Javascript Validator Testing](#javascript-validator-testing)
+    * [HTML Validator Testing](#html-validator-testing)
+    * [CSS Validator Testing](#css-validator-testing)
+  * [Bug and Issues](#bug-and-issues)
+
 ## Responsiveness
 
 Pages were tested on various screen sizes from 320px on a Samsung fold 2, Samsung Galaxy Tab, Nexus 7 and a wide screen Windows machine. The website hides all content at 300px or below due to the size of the randomly generated main game board.
