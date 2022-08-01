@@ -242,6 +242,26 @@ The two unmatched fruit cards flipped back to not turned.
 
 ![Fruit Match False 3](/assets/readme/unsuccmatchrm2.jpg)
 
+### Disable JavaScript
+
+The game.html page should show as message when Javascript is disabled.
+
+**Test Steps:**
+
+1. Open the corresponding browser and open the Match 2 Fruit Game website.
+2. Navigate to the Game page.
+3. Disable the Javascript function using the corresponding method in choosen browser.
+
+**Expected:**
+
+The page will display a message saying, "This game requires JavaScript to work. Your browser does not support JavaScript or it is disabled. Try to enable JavaScript.".
+
+**Actual:**
+
+The page displays a message saying, ""This game requires JavaScript to work. Your browser does not support JavaScript or it is disabled. Try to enable JavaScript.".
+
+![Disable Javascript Message](/assets/readme/disablejsrm.jpg)
+
 ### Win Message
 
 The Win Message was tested so that when a user finishes the game successfully by matching all fruit pairs, the game area should transform to a win screen with the total flips and total time its taken.
