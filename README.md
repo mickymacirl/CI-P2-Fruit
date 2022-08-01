@@ -49,11 +49,17 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ## Confirm Page
 
+* The feedback from is using the *[Code Institute Form Dump](https://formdump.codeinstitute.net/)* to validate the form.
+
+* Access the Confim.html page: *[here](confirm.html)*
+
 ![Confirm 320 Readme](./assets/readme/confirm320rm.jpg)
 
 ![Confirm 700 Readme](./assets/readme/confirm700rm.jpg)
 
 ## 404 Page
+
+* Access the 404.html page: *[here](404.html)*
 
 ![404 320 Readme](./assets/readme/404320rm.jpg)
 
