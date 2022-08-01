@@ -82,7 +82,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 ## Features to be Added
 
 * A user tracking system
-* A score board of passed visits*
+* A score board of passed visits
 * An option to choose certain size of main game board
 
 ## Design Choices
