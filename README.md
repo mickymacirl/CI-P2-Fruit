@@ -117,6 +117,8 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ### Game Page
 
+- The Game Page contains the main game board, header, and footer.
+
 ![Game 320 Readme](./assets/readme/game320rm.jpg)
 
 ![Game 700 Readme](./assets/readme/game700rm.jpg)
