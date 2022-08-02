@@ -124,7 +124,7 @@ The link should open in a new window, to each of the websites.
 
 The link opened in a new window, to each of the websites.
 
-### Form Submit
+### Form Submit Confirm
 
 The Feedback form was tested so that when a user clicks on submit, the act directs to the confirm.html web page with a success message.
 
@@ -142,6 +142,29 @@ The user should be redirected to the confirm.html page with the success message 
 **Actual:**
 
 The website redirected the user to the confirm.html page with the success message being displayed.
+
+### Form Submit CI Form
+
+The Feedback form was tested so that when a user clicks on submit, the act directs to the CI Form web page with a table of values.
+
+**Test Steps:**
+
+1. Open the corresponding browser and open the Match 2 Fruit Game website.
+2. Navigate to the Feedback page using the Feedback link.
+3. Enter details as "Test" in the First Name, Last Name, and Subject fields.
+4. Click the Submit button.
+
+**Expected:**
+
+The user should be redirected to the CI form page with a table of values that equal "Test".
+
+**Actual:**
+
+The user should was directed to the CI form page with the table of values that equal "Test".
+
+![Form Testing CI Form Test](/assets/readme/formtestrm.jpg)
+
+![Form Testing CI Form Confirm](/assets/readme/formtesttruerm.jpg)
 
 ### Form Validation
 
