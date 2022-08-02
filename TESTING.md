@@ -223,7 +223,7 @@ The game board was tested to ensure that the 10 different Fruit Emojis are rando
 
 **Expected:**
 
-The game board cells and emoji placements should be random so as not to have repeated or bunched-together emoji.
+The game board cells and emoji placements should be random so as not to have repeated or bunched-together emojis.
 
 **Actual:**
 
@@ -355,7 +355,7 @@ The game page displayed You have won with a total flip of 50 moves and a total t
 ## Bug and Issues
 
 1. ~~When a user browses the index.html web page on a device with less than 700px, the font size is too big.~~  Fixed by creating Media Query to increase and decrease as the resolution is changed.
-2. ~~When a user browses the index.html web page on any device, the rules section doesn't display correctly and is centered.~~ Fixed by creating a new CSS style to hold the content.
+2. ~~When a user browses the index.html web page on any device, the rules section doesn't display correctly and is centred.~~ Fixed by creating a new CSS style to hold the content.
 3. ~~Main game board isn't responsive on screen sizes below 300px.~~ Created a CSS Media Query to hide all content below 300px.
 4. Some miss aligned text when in landscape mode. Add media query for landscape modes.
 5. ~~On Safari, the transform/translate doesn't work correctly. *[why-on-safari-the-transform-translate-doesnt-work-correctly](https://stackoverflow.com/questions/29864790/why-on-safari-the-transform-translate-doesnt-work-correctly)*~~ Fixed by using WebKit settings in CSS. Safari Testing results are below.

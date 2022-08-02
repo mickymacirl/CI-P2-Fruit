@@ -37,7 +37,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
   - [Technology](#technology)
     - [HTML](#html)
     - [CSS](#css)
-    - [Javascript](#javascript)
+    - [JavaScript](#javascript)
     - [Visual Studio Code](#visual-studio-code)
     - [GitHub](#github)
     - [Adobe Photoshop](#adobe-photoshop)
@@ -64,7 +64,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
     - [Grid Template Columns](#grid-template-columns)
     - [Fruit Emojis](#fruit-emojis)
     - [Code Institute Form Dump](#code-institute-form-dump)
-    - [Javascript Basics](#javascript-basics)
+    - [JavaScript Basics](#javascript-basics)
     - [Favicon Generator](#favicon-generator)
     - [W3 School Responsive Web Design - Images](#w3-school-responsive-web-design---images)
     - [Mozilla.org Reference](#mozillaorg-reference)
@@ -285,9 +285,9 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 - The website was styled by connecting a custom *[CSS](https://en.wikipedia.org/wiki/CSS)* to an external file.
 
-### Javascript
+### JavaScript
 
-- This website's game board uses *[Javascript](https://en.wikipedia.org/wiki/JavaScript)* to an external file.
+- This website's game board uses *[JavaScript](https://en.wikipedia.org/wiki/JavaScript)* to an external file.
 
 ### Visual Studio Code
 
@@ -419,9 +419,9 @@ Below are the steps required:
 
 - Used *[Code Institute Form Dump](https://formdump.codeinstitute.net/)* to validate contact form.
 
-### Javascript Basics
+### JavaScript Basics
 
-- Javascript Basics from *[JsChallenger.com](https://www.jschallenger.com/javascript-fundamentals/javascript-basics)*.
+- JavaScript Basics from *[JsChallenger.com](https://www.jschallenger.com/javascript-fundamentals/javascript-basics)*.
 
 ### Favicon Generator
 
