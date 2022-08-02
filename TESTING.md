@@ -322,7 +322,6 @@ The Win Message was tested so that when a user finishes the game successfully by
 1. Open the corresponding browser and open the Match 2 Fruit Game website.
 2. Navigate to the Game page and match all fruit pairs to win the game.
 
-
 **Expected:**
 
 The game page should display You have won with the total flips of 41 moves and a total time of 53 seconds.
