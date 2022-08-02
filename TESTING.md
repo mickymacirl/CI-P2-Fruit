@@ -27,7 +27,7 @@
     * [Disable JavaScript](#disable-javascript)
     * [Win Message](#win-message)
   * [Validator Testing](#validator-testing)
-    * [Javascript Validator Testing](#javascript-validator-testing)
+    * [JavaScript Validator Testing](#javascript-validator-testing)
     * [HTML Validator Testing](#html-validator-testing)
     * [CSS Validator Testing](#css-validator-testing)
   * [Bug and Issues](#bug-and-issues)
@@ -301,7 +301,7 @@ The game.html page should show a message when Javascript is disabled.
 
 1. Open the corresponding browser and open the Match 2 Fruit Game website.
 2. Navigate to the Game page.
-3. Disable the Javascript function using the corresponding method in the chosen browser.
+3. Disable the JavaScript function using the corresponding method in the chosen browser.
 
 **Expected:**
 
@@ -311,7 +311,7 @@ The page will display a message saying, **"This game requires JavaScript to work
 
 The page displays a message saying, **"This game requires JavaScript to work. Your browser does not support JavaScript or it is disabled. Try to enable JavaScript."**.
 
-![Disable Javascript Message](/assets/readme/disablejsrm.jpg)
+![Disable JavaScript Message](/assets/readme/disablejsrm.jpg)
 
 ### Win Message
 
@@ -334,9 +334,9 @@ The game page displayed You have won with a total flip of 50 moves and a total t
 
 ## Validator Testing
 
-### Javascript Validator Testing
+### JavaScript Validator Testing
 
-* Used Jshint to test Javascript, results are showing no errors. To achieve no issues the validator needs to be configured to allow ES6 through the configuration options or by adding the comment, "/*jshint esversion: 6*/" at the top of the Javascript paste/file.
+* Used Jshint to test JavaScript, results are showing no errors. To achieve no issues the validator needs to be configured to allow ES6 through the configuration options or by adding the comment, "/*jshint esversion: 6*/" at the top of the Javascript paste/file.
 
 ![Jshint Results](./assets/readme/jshintrm.jpg)
 
