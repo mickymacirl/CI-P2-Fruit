@@ -281,7 +281,7 @@ The game cards should flip back when a fruit match is unsuccessful.
 
 **Expected:**
 
-The two unmatched fruit cards should flip back to not turn.
+The two unmatched fruit cards should flip back to not turned.
 
 **Actual:**
 
