@@ -321,7 +321,7 @@ The Win Message was tested so that when a user finishes the game successfully by
 
 1. Open the corresponding browser and open the Match 2 Fruit Game website.
 2. Navigate to the Game page and match all fruit pairs to win the game.
-3. Click the Submit button.
+
 
 **Expected:**
 
