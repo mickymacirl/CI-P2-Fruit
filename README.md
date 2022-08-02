@@ -123,6 +123,9 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ### Feedback Page
 
+- The Feedback page has a centred contact form with a submit button.
+- Users can contact the site owners through the contact form.
+
 ![Feedback 320 Readme](./assets/readme/fb320rm.jpg)
 
 ![Feedback 700 Readme](./assets/readme/fb700rm.jpg)
