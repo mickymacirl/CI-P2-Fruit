@@ -34,24 +34,24 @@
 
 ## Responsiveness
 
-Pages were tested on various screen sizes from 320px on a Samsung fold 2, Samsung Galaxy Tab, Nexus 7 and a wide screen Windows machine. The website hides all content at 300px or below due to the size of the randomly generated main game board.
+Pages were tested on various screen sizes from 320px on a Samsung fold 2, Samsung Galaxy Tab, Nexus 7 and a wide screen Windows machine. However, the website hides all content at 300px or below due to the randomly generated primary game board size.
 
-Pages were tested on most modern browsers including Microsoft Edge, Chrome, Firefox, Opera and Brave.
+Pages were tested on most modern browsers, including Microsoft Edge, Chrome, Firefox, Opera and Brave.
 
 **Test Steps:**
 
 1. Open the corresponding browser and open the Match 2 Fruit Game website.
 2. Open the browser development tools by hitting the corresponding dev tools shortcut.
 3. Resize to the desired width.
-4. Click and drag the browser window to lower or higher window size.
+4. Click and drag the browser window to lower or larger window size.
 
 **Expected:**
 
-The website is responsive on all sizes and no pixelation is accruing. No overlap of text or images.
+The website is responsive on all sizes, and no pixelation is accruing. No overlap of text or images.
 
 **Actual:**
 
-The website behaved as expected, with an initial issue with the center of text on all pages on a screen size of 320px, and WAVE warnings for small text. Media Query code was added to assist with the look and feel of the website at different screen sizes. Some miss-aligned text when in landscape mode. ~~Issue with the CSS transform effect in Safari browser.~~ Issue listed in the Bugs section as fixed. [Bugs and Issues](#bug-and-issues)
+The website behaved as expected, with an initial issue with the center of text on all pages on a screen size of 320px and WAVE warnings for small text. Media Query code was added to assist with the look and feel of the website at different screen sizes. Some miss-aligned text when in landscape mode. ~~Issue with the CSS transform effect in Safari browser.~~ Issue listed in the Bugs section as fixed. [Bugs and Issues](#bug-and-issues)
 
 The website was tested on the following physical devices, with no resizing issues seen:
 
@@ -102,7 +102,7 @@ Mobile Lighthouse Testing is showing a score of 95, with SEO having a score of 9
 
 ### Navigation Links Testing
 
-Testing was done to make sure all navigation links led to the intended pages on their respective pages.
+Testing was done to ensure all navigation links led to the intended pages on their respective pages.
 
 ![Navigation Link](/assets/readme/navlinkrm.jpg)
 
@@ -115,15 +115,15 @@ The footer was tested so that when a user clicks on the link for GitPod and Adob
 **Test Steps:**
 
 1. Open the corresponding browser and open the Match 2 Fruit Game website.
-2. Click on the Gitpod and Adobe Dreamweaver links in the footer of the page.
+2. Click on the Gitpod and Adobe Dreamweaver links in the page's footer.
 
 **Expected:**
 
-The link should open in a new window, to each of the websites.
+The link should open in a new window to each of the websites.
 
 **Actual:**
 
-The link opened in a new window, to each of the websites.
+The link opened in a new window to each of the websites.
 
 ### Form Submit Confirm
 
@@ -189,20 +189,20 @@ The form displayed the message "Please fill out this field.".
 
 ### Favicon Validation
 
-The Favicon was tested so that when a user loads a page, the favicon should display in the top bar of the browser window.
+The Favicon was tested so that when a user loads a page, the Favicon should display in the top bar of the browser window.
 
 **Test Steps:**
 
 1. Open the corresponding browser and open the Match 2 Fruit Game website.
-2. Confirm visually that the favicon is in place by checking the top bar of the browser.
+2. Confirm visually that the Favicon is in place by checking the browser's top bar.
 
 **Expected:**
 
-The web browser should display the favicon for the page.
+The web browser should display the Favicon for the page.
 
 **Actual:**
 
-The web browser displayed the favicon for the page.
+The web browser displayed the Favicon for the page.
 
 ![Favicon Testing](/assets/readme/faviconrm.jpg)
 
@@ -210,7 +210,7 @@ The web browser displayed the favicon for the page.
 
 ### Random Fruit Placement in the Main Game board
 
-The game board was tested to ensure that the 10 different Fruit Emojis are randomly placed while being generated.
+The game board was tested to ensure that the ten different Fruit Emojis were randomly placed while being generated.
 
 **Test Steps:**
 
@@ -219,7 +219,7 @@ The game board was tested to ensure that the 10 different Fruit Emojis are rando
 3. Select the first card-front div generated cell, and hide the CSS styling.
 4. Select the first card-back div generated cell, and hide the CSS styling.
 5. Expand all div card, div card-front and card-back cells and check for randomness.
-6. Reload the page and carry out steps 2 to 5 repeating 5 times to check for randomness.
+6. Reload the page and perform steps 2 to 5, repeating five times to check for randomness.
 
 **Expected:**
 
@@ -336,7 +336,7 @@ The game page displayed You have won with a total flip of 50 moves and a total t
 
 ### JavaScript Validator Testing
 
-* Used Jshint to test JavaScript, results are showing no errors. To achieve no issues the validator needs to be configured to allow ES6 through the configuration options or by adding the comment, "/*jshint esversion: 6*/" at the top of the Javascript paste/file.
+* Used Jshint to test JavaScript; results are showing no errors. To achieve no issues, the validator needs to be configured to allow ES6 through the configuration options or by adding the comment, "/*jshint esversion: 6*/" at the top of the Javascript paste/file.
 
 ![Jshint Results](./assets/readme/jshintrm.jpg)
 
@@ -354,7 +354,7 @@ The game page displayed You have won with a total flip of 50 moves and a total t
 
 ## Bug and Issues
 
-1. ~~When a user browses the index.html web page on a device with less than 700px, the font size is too big.~~  Fixed by creating Media Query to increase and decrease as the resolution is changed.
+1. ~~When a user browses the index.html web page on a device with less than 700px, the font size is too big.~~  Fixed by creating Media Query to increase and decrease as the resolution changes.
 2. ~~When a user browses the index.html web page on any device, the rules section doesn't display correctly and is centred.~~ Fixed by creating a new CSS style to hold the content.
 3. ~~Main game board isn't responsive on screen sizes below 300px.~~ Created a CSS Media Query to hide all content below 300px.
 4. Some miss aligned text when in landscape mode. Add media query for landscape modes.
