@@ -356,7 +356,7 @@ Forking creates a copy of the repository to view and/or make changes without aff
 
 Below are the steps required:
 
-1. In **GitHub**, access the specific **GitHub** Repository - *[Match 2 Fruit Game](https://github.com/mickymacirl/CI-P2-Fruit)*
+1. In **GitHub**, access the specific **GitHub** Repository - *[Match 2 Fruit Game](https://mickymacirl.github.io/CI-P2-Fruit/)*
 2. You will find and click the **"Fork"** button on the top right of the repository page underneath the user icon.
 3. You will have successfully created a copy of the original repository within the logged-in **GitHub** account.
 
@@ -483,7 +483,7 @@ Below are the steps required:
 
 ### Multi-Device Website Mockup Generator
 
-- Used *[Am I Responsive](https://ui.dev/amiresponsive)* to create a multi-device mockup.
+- Used *[Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/index.php)* to create multi-device mockup.
 
 ### Version Control Reference
 
