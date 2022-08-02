@@ -342,7 +342,7 @@ The game page displayed You have won with a total flip of 50 moves and a total t
 
 ### HTML Validator Testing
 
-* Used *[W3 HTML Validator](https://jigsaw.w3.org/css-validator/)* to validate HTML, results are showing no errors.
+* Used *[W3 HTML Validator](https://validator.w3.org/)* to validate HTML, results are showing no errors.
 
 ![HTML Results](/assets/readme/htmlvalrm.jpg)
 
