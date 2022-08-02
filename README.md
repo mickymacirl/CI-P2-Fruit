@@ -108,6 +108,9 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ### Index Page
 
+- The Index page has a centred box with the game's rules and a button to start the game.
+- Users can find information about the game's rules and a play button.
+
 ![Index 320 Readme](./assets/readme/index320rm.jpg)
 
 ![Index 700 Readme](./assets/readme/index700rm.jpg)
