@@ -324,11 +324,11 @@ The Win Message was tested so that when a user finishes the game successfully by
 
 **Expected:**
 
-The game page should display You have won with the total flips of 41 moves and a total time of 53 seconds.
+The game page should display You have won with the total flips of 50 moves and a total time of 53 seconds.
 
 **Actual:**
 
-The game page displayed You have won with a total flip of 41 moves and a total time of 53 seconds.
+The game page displayed You have won with a total flip of 50 moves and a total time of 53 seconds.
 
 ![Game Function test You win message](/assets/readme/wintestingrm.jpg)
 
