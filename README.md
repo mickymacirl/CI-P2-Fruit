@@ -88,20 +88,20 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 ### Header
 
 - The website has a fixed header with the Match 2 Logo aligned left and it is responsive on all device sizes.
-- This will be displayed throughout the website.
+- The fixed header will be displayed throughout the website.
 
 ![Header Readme](./assets/readme/navbar700.jpg)
 
 ### NavBar
 
-- The navigation links to the Home and the Feedback page and it is responsive on all device sizes.
-- Users will be able to navigate between each page of the site, having consistent menu placement on the different screen sizes.
+- The navigation links to the Home and the Feedback page and is responsive on all device sizes.
+- Users can navigate between each page of the site, having consistent menu placement on the different screen sizes.
 
 ![Navbar Readme Responsive](./assets/readme/navbar320.jpg)
 
 ### Footer
 
-- The website has a fixed footer which describes what programs the site was designed in, with a link to each that opens on a new page.
+- The website has a fixed footer describing the programs the site was designed in, with a link to each that opens on a new page.
 - Users will be able to find additional information about the programs used.
 
 ![Footer Readme](./assets/readme/footerrm.jpg)
@@ -126,7 +126,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ### Confirm Page
 
-- The feedback form is using the *[Code Institute Form Dump](https://formdump.codeinstitute.net/)* to validate the form.
+- The feedback form uses the *[Code Institute Form Dump](https://formdump.codeinstitute.net/)* to validate.
 
 - Access the Confirm.html page: *[here](https://mickymacirl.github.io/CI-P2-Fruit/confirm.html)*
 
@@ -144,13 +144,13 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ### Game Board
 
-- The Main Game Board has a Start button, that disables with a grey color when the board is active, with the number of moves taken so far and the time since either clicking on the start button or turning the first card, both displayed above the random grid of Cards.
+- The Main Game Board has a Start button that disables with a grey color when the board is active, with the number of moves taken so far and the time since either clicking on the start button or turning the first card, both displayed above the random grid of Cards.
 
 ![Start Button Active](/assets/readme/startrm.jpg)
 
 ![Start Button Disabled](/assets/readme/startdisabledrm.jpg)
 
-- The Main Game Board (game.html) is a 4x4 set of cards which can be turned with a mouse click, clicking a second card to try to find the fruit match. If unsuccessful, both unmatched turned cards revert to being unturned.
+- The Main Game Board (game.html) is a 4x4 set of cards that can be turned with a mouse click, clicking a second card to try to find the fruit match. If unsuccessful, both unmatched turned cards revert to being unturned.
 
 ![Successful Match Two Fruit](/assets/readme/match2rm.jpg)
 
@@ -166,13 +166,13 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 - A user tracking system.
 - A scoreboard of past visits.
-- An option to choose a certain size of the main game board.
+- An option to choose a specific size of the main game board.
 
 ## Design Choices
 
 ### Fruit Emoji
 
-- The following Emoji were used to randomly fill the main game board using the generateGame function:
+- The following Emoji were used to fill the main game board using the generateGame function randomly:
 
 | EMOJI       | Unicode Hex | HTML Dec Value |Image           |
 |-------------|-------------|----------------|----------------|
@@ -195,7 +195,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ### Colors
 
-- The website, logo and text effects use the following colors which go together well.
+- The website, logo and text effects use the following colors, which go together well.
 
 - Forest Green Traditional, Marigold and Golden Poppy.
 
@@ -203,13 +203,13 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ### Fonts
 
-- The below fonts look well together on the page, and suit the look and feel of the website.
+- The below fonts look well together on the page and suit the look and feel of the website.
 
 - Used the font *[Muli from Adobe Fonts](https://fonts.adobe.com/fonts/muli)* for the main text of the website and buttons.
 
 ![Muli Font](/assets/readme/mulirm.jpg)
 
-- Muli is no longer listed under Google Fonts but can still be imported for use with a website, explanation found *[here](https://www.reddit.com/r/fonts/comments/i1b44r/did_google_remove_muli_font_from_its_collection/here)*.
+- Muli is no longer listed under Google Fonts but can still be imported for use with a website; an explanation is found *[here](https://www.reddit.com/r/fonts/comments/i1b44r/did_google_remove_muli_font_from_its_collection/here)*.
 
 ### Logo
 
@@ -221,7 +221,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ### Favicon
 
-- The Favicon was designed from the back of the card image, the image used when using *[Favicon & App Icon Generator](https://www.favicon-generator.org/)* was:
+- The Favicon was designed from the back of the card image; the image used when using *[Favicon & App Icon Generator](https://www.favicon-generator.org/)* was:
 
 ![Image from Logo used for Favicon](./assets/readme/backcardiconrm.jpg)
 
@@ -267,7 +267,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 - As a user, I want instructions on how to play the game.
 - As a user, I want to enjoy the game.
-- As a user, I want to view how many moves I’ve made and the time it’s taken.
+- As a user, I want to view how many moves I've made, and the time it's taken.
 - As a user, I want the option to play the game again after one game ends.
 
 ## Site Owner Goals
@@ -279,7 +279,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ### HTML
 
-- The structure of this website is using *[HTML](https://en.wikipedia.org/wiki/HTML)*.
+- The structure of this website uses *[HTML](https://en.wikipedia.org/wiki/HTML)*.
 
 ### CSS
 
@@ -315,7 +315,7 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ## Testing
 
-- Link to Testing ReadMe can be found at the *[Testing ReadMe](/TESTING.md)* link.
+- The link to Testing ReadMe can be found at the *[Testing ReadMe](/TESTING.md)* link.
 
 ## Deployment
 
@@ -357,7 +357,7 @@ Forking creates a copy of the repository to view and/or make changes without aff
 Below are the steps required:
 
 1. In **GitHub**, access the specific **GitHub** Repository - *[Match 2 Fruit Game](https://github.com/mickymacirl/CI-P2-Fruit)*
-2. Towards the top right of the repository page, underneath the user icon you will find and click the "**Fork**" Button.
+2. You will find and click the **"Fork"** button on the top right of the repository page underneath the user icon.
 3. You will have successfully created a copy of the original repository within the logged-in **GitHub** account.
 
 ### Clone the 'CI-P2 Fruit Game' GitHub Code Repository locally
@@ -391,7 +391,7 @@ Below are the steps required:
 
 ### Meta Tags
 
-- Used SEO Timers *[Meta Tag Generator](https://www.seoptimer.com/meta-tag-generator)* to generate html meta-tags.
+- Used SEO Timers *[Meta Tag Generator](https://www.seoptimer.com/meta-tag-generator)* to generate HTML meta-tags.
 
 ### W3 Schools Media Queries
 
@@ -465,7 +465,7 @@ Below are the steps required:
 
 ### LambDaTest Safari
 
-- Used *[LambDaTest.com](https://www.lambdatest.com/)* to test webkit changes in CSS.
+- Used *[LambDaTest.com](https://www.lambdatest.com/)* to test WebKit changes in CSS.
 
 ### Grammarly Office Plugin
 
