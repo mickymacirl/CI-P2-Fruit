@@ -179,11 +179,11 @@ The Feedback form was tested so that when a user tries to submit a blank form, t
 
 **Expected:**
 
-The form should display the message "Please fill out this field".
+The form should display the message "Please fill out this field.".
 
 **Actual:**
 
-The form displayed the message "Please fill out this field".
+The form displayed the message "Please fill out this field.".
 
 ![Form Testing](/assets/readme/feedbacktestrm.jpg)
 
