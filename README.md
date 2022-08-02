@@ -142,6 +142,8 @@ View the live site: *[here](https://mickymacirl.github.io/CI-P2-Fruit/)*
 
 ### 404 Page
 
+- The 404 page has a centred box with a message that the page isn’t available.
+- Users will know what to do if they try to access a non-existing page.
 - Access the 404.html page: *[here](https://mickymacirl.github.io/CI-P2-Fruit/404.html)*
 
 ![404 320 Readme](./assets/readme/404320rm.jpg)
